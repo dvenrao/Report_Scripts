@@ -1,0 +1,8 @@
+ERROR 2011/06/17 22:37:11.743 CONTROL:ping [198.137.200.3:0 ] ARM-7848: 198.137.200.40 edge ping failure (NEXUS Applied Micro:APM Denver:6839): 36 bytes from 198.137.200.3: icmp_seq=1 Time to live exceeded
+ERROR 2011/06/17 22:42:12.018 CONTROL:ping [198.137.200.3:0 ] ARM-7848: 198.137.200.40 edge ping failure (NEXUS Applied Micro:APM Denver:6839): 36 bytes from 198.137.200.3: icmp_seq=61 Time to live exceeded
+ERROR 2011/06/17 22:47:12.367 CONTROL:ping [198.137.200.3:0 ] ARM-7848: 198.137.200.40 edge ping failure (NEXUS Applied Micro:APM Denver:6839): 36 bytes from 198.137.200.3: icmp_seq=121 Time to live exceeded
+ERROR 2011/06/17 22:52:12.786 CONTROL:ping [198.137.200.3:0 ] ARM-7848: 198.137.200.40 edge ping failure (NEXUS Applied Micro:APM Denver:6839): 36 bytes from 198.137.200.3: icmp_seq=181 Time to live exceeded
+ERROR 2011/06/17 22:57:13.041 CONTROL:ping [198.137.200.3:0 ] ARM-7848: 198.137.200.40 edge ping failure (NEXUS Applied Micro:APM Denver:6839): 36 bytes from 198.137.200.3: icmp_seq=241 Time to live exceeded
+ERROR 2011/06/17 23:02:13.294 CONTROL:ping [198.137.200.3:0 ] ARM-7848: 198.137.200.40 edge ping failure (NEXUS Applied Micro:APM Denver:6839): 36 bytes from 198.137.200.3: icmp_seq=301 Time to live exceeded
+ERROR 2011/06/17 23:07:13.546 CONTROL:ping [198.137.200.3:0 ] ARM-7848: 198.137.200.40 edge ping failure (NEXUS Applied Micro:APM Denver:6839): 36 bytes from 198.137.200.3: icmp_seq=361 Time to live exceeded
+ERROR 2011/06/17 23:12:13.814 CONTROL:ping [198.137.200.3:0 ] ARM-7848: 198.137.200.40 edge ping failure (NEXUS Applied Micro:APM Denver:6839): 36 bytes from 198.137.200.3: icmp_seq=421 Time to live exceeded

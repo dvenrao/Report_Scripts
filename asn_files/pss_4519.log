@@ -1,0 +1,175 @@
+WARN  2011/06/17 17:50:19.998 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52353] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 17:50:45.800 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:8575] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 17:50:50.714 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:8582] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 17:50:54.855 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.18.214:64067] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 17:55:01.178 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:57779] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 17:55:13.138 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.19:61597] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 17:55:35.321 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:57811] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:02:29.027 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52369] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:03:04.403 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.18.214:64164] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+ERROR 2011/06/17 18:05:20.494 TCPSVC [6,4574,L,172.17.4.62:50689 172.16.1.26:49178] TCP_ASN_CSS_FAILURE failed 54 (ECONNRESET (54) Connection reset by peer)
+WARN  2011/06/17 18:05:56.186 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:51777] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:06:01.443 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:51783] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+ERROR 2011/06/17 18:07:57.501 TCPSVC [6,4574,L,172.17.24.19:61551 172.16.1.24:38894] TCP_ASN_CSS_FAILURE failed 54 (ECONNRESET (54) Connection reset by peer)
+ERROR 2011/06/17 18:08:04.503 TCPSVC [6,4574,L,172.17.24.19:61556 172.16.1.24:38894] TCP_ASN_CSS_FAILURE failed 54 (ECONNRESET (54) Connection reset by peer)
+WARN  2011/06/17 18:08:08.728 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:58560] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:08:33.539 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:58587] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:12:31.125 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.19:4235] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:12:44.196 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:4250] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:14:38.163 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52385] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:15:13.548 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.18.214:64266] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:21:05.011 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:59251] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:21:08.588 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:37820] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:21:13.444 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:37829] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:21:26.031 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:59309] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:25:05.422 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:4350] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:26:47.527 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52389] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:27:22.827 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.18.214:64403] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:30:00.654 CIFS:OE:SMB [6,4574,L,172.16.1.17:445 172.17.1.17:37963] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:32:50.687 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.16.20:50404] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:33:59.818 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:59959] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:34:26.276 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:60023] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:36:18.651 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:57836] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:36:23.564 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:57840] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:37:27.392 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:4408] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:37:47.294 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.19:4411] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:38:57.201 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52395] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:39:02.122 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:60301] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:39:17.730 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.19:4434] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:39:34.242 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.18.214:64489] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:46:55.970 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:60712] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:49:51.868 ARR:RX [6,4574,L,172.16.1.24:56852 172.17.1.17:6001] ARM-1134: RX save SID 0x8135EA5A is already closed. (line=193)
+WARN  2011/06/17 18:50:06.404 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:4531] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:51:06.970 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52401] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:51:28.823 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:39414] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 18:51:33.912 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:39418] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+ERROR 2011/06/17 18:56:19.535 TCPSVC [6,4574,L,172.17.18.214:64621 172.16.1.53:8080] TCP_ASN_CSS_FAILURE failed 54 (ECONNRESET (54) Connection reset by peer)
+WARN  2011/06/17 18:59:32.107 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:61475] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:01:28.781 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.16.38:49461] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:02:28.231 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:4584] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:03:16.070 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52405] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:06:39.509 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:32730] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:06:44.506 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:32734] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:12:02.270 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:62219] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:12:23.400 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:62241] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:13:41.416 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:49529] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:14:49.197 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:4649] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:15:25.105 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52408] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:21:49.861 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:10598] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:21:54.800 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:10602] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:24:53.101 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:62974] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:25:50.938 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:49558] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:27:11.812 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:4706] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:27:36.464 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52412] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:37:00.421 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:51593] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:37:05.972 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:51597] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:37:24.799 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:63615] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:37:47.943 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:63676] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:38:00.118 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:49716] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:39:32.773 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:4768] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:39:45.558 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52428] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:40:05.736 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:63880] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:50:09.376 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:49916] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:50:15.639 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:64395] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:51:53.959 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:1035] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:51:54.515 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52445] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:52:11.679 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:25112] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:52:18.252 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:25118] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 19:52:26.541 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:64565] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:02:18.531 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:50129] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:03:02.287 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:65223] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:04:03.630 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52449] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:04:22.431 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:65288] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:04:49.321 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:65302] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:07:23.742 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:55577] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:07:29.088 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:55581] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:14:27.893 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:50345] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:15:51.751 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:49540] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:16:12.887 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52454] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:16:14.329 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:49557] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:18:13.585 ARR:RX [6,4574,L,172.16.1.14:59011 172.17.1.10:41002] ARM-1134: RX save SID 0x8136F34A is already closed. (line=193)
+WARN  2011/06/17 20:19:09.112 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.19:56279] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:22:34.938 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:25096] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:22:40.078 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:25105] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:26:37.230 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:50498] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:28:22.145 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52457] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:28:44.281 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:50225] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:31:48.761 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:56806] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:37:45.653 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:60609] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:37:50.859 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:60613] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:38:46.729 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:50578] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:40:32.401 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52467] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:41:50.872 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:50911] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:44:09.396 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:62901] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:50:56.499 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:50671] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:52:41.493 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52488] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:52:59.555 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:49296] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:53:04.550 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:49300] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:54:34.246 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:51572] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 20:56:29.752 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:63254] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:03:05.523 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:50743] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:04:50.844 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52492] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:07:38.216 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:52286] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:08:15.203 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:28534] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:08:20.085 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:28544] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:08:50.063 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:63421] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:09:55.120 ARR:RX [6,4574,L,172.16.1.17:58784 172.17.1.17:55521] ARM-1134: RX save SID 0x813738DC is already closed. (line=193)
+WARN  2011/06/17 21:15:14.704 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:50806] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:17:00.272 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52496] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:20:06.910 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:53080] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:21:10.284 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.19:63614] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:23:25.352 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:34296] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:23:30.239 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:34302] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:27:23.858 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:51005] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+ERROR 2011/06/17 21:28:06.607 TCPSVC [6,4574,L,172.16.16.11:61206 172.17.8.5:8443] TCP_ASN_CSS_FAILURE failed 54 (ECONNRESET (54) Connection reset by peer)
+WARN  2011/06/17 21:29:09.428 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52515] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:31:44.615 CARR:NEXUSFSM [ ] ARM-1095: Ping time out occurs. Enter half-optimized mode.
+WARN  2011/06/17 21:31:46.351 DEFAULT datapath progress monitor check failed
+WARN  2011/06/17 21:31:49.325 DEFAULT [ ] ARM-7817: Dispatcher runs too long. (svc=CARR, duration=4709556 usec, action='timer_ping', conn_id=4294967295, dir=1, prio=4)
+WARN  2011/06/17 21:31:49.325 DEFAULT ARM-2115: Timer not run for over 2 seconds.
+WARN  2011/06/17 21:31:49.325 ARR:NEXUSFSM [ ] ARM-1095: Ping time out occurs. Enter half-optimized mode.
+WARN  2011/06/17 21:31:49.330 ARR:NEXUSFSM [6,4574,L,172.17.1.17:7431 172.16.1.17:20709] ARM-1096: First ping received after time out.
+WARN  2011/06/17 21:31:49.331 CARR:NEXUSFSM [6,4574,L,0.0.0.0:0 0.0.0.0:0] ARM-1096: First ping received after time out.
+ERROR 2011/06/17 21:33:57.610 TCPSVC [6,4574,L,172.17.24.19:56292 172.16.1.24:38894] TCP_ASN_CSS_FAILURE failed 54 (ECONNRESET (54) Connection reset by peer)
+ERROR 2011/06/17 21:33:57.613 TCPSVC [6,4574,L,172.17.24.19:56297 172.16.1.24:38894] TCP_ASN_CSS_FAILURE failed 54 (ECONNRESET (54) Connection reset by peer)
+WARN  2011/06/17 21:38:35.439 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:22534] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:38:40.488 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:22538] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:39:33.265 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:51053] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:41:20.312 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52519] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:44:57.885 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:54526] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:51:42.628 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:51102] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:53:29.491 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52542] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:53:45.788 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:65042] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:53:51.404 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:65046] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 21:57:53.136 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:55251] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:03:51.562 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:51114] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:05:39.012 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52546] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:08:57.025 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:20444] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:09:01.907 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:20448] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:10:55.705 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:56010] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:16:01.361 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:51264] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:17:48.120 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52550] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:23:04.900 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:56766] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:24:07.634 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:64534] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:24:12.693 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:64538] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:28:10.347 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:51399] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:29:57.334 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52553] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:35:40.939 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:57512] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:39:18.096 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:34232] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:39:23.872 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:34236] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:40:21.135 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:51442] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:42:06.618 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52557] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:48:21.598 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:58260] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:52:30.360 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:51489] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:54:15.659 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52570] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:54:32.273 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:23346] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 22:54:37.193 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:23350] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+ERROR 2011/06/17 22:56:28.894 TCPSVC [6,4574,L,172.16.1.17:52789 172.17.1.17:64327] TCP_ASN_CSS_FAILURE failed 54 (ECONNRESET (54) Connection reset by peer)
+WARN  2011/06/17 23:01:24.830 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:59089] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 23:04:39.773 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:51530] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 23:06:24.627 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.1.110:52586] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 23:09:43.839 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.1.17:13160] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 23:09:48.703 CIFS:OE:SMB [6,4574,L,172.16.1.20:445 172.17.1.17:13164] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 23:13:34.395 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.24.21:59796] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 23:13:54.979 CIFS:OE:SMB [6,4574,L,172.16.1.15:445 172.17.24.21:59819] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6
+WARN  2011/06/17 23:16:49.309 CIFS:OE:SMB [6,4574,L,172.16.1.15:139 172.17.16.38:51564] ARM-1421: Negotiate Response processing shutting down optimization Opt err : 6

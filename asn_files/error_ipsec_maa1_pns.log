@@ -1,0 +1,31 @@
+ERROR 2011/06/17 21:30:31.248 DEFAULT ARM-8667: nss_ni_ipsec_config: Skipping edge IPSEC configuration.
+ERROR 2011/06/17 21:30:31.379 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.379 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.379 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.379 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.379 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.379 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.379 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.379 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.379 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.379 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.379 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.379 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.380 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.380 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.380 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.380 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:30:31.380 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:48:48.043 IKE-IPSEC:-  [Nx 5216] DPD: remote (ISAKMP-SA remote: 125.63.79.234[500] spi=6f03fd26ca454631:30d7e41e933bb0f0) seems to be dead. Seq# 0x52c
+ERROR 2011/06/17 21:48:48.044 IKE-IPSEC:-  [Nx 6681] DPD: remote (ISAKMP-SA remote: 202.45.6.90[4500] spi=d1b05c22facf09ce:b96429fe0d53355c) seems to be dead. Seq# 0x5e7
+ERROR 2011/06/17 21:48:48.045 IKE-IPSEC:-  [Nx 6681] DPD: remote (ISAKMP-SA remote: 202.45.6.90[4500] spi=cec034ce7c78e1a3:25b178d335811255) seems to be dead. Seq# 0x5e7
+ERROR 2011/06/17 21:48:50.831 IKE-IPSEC:-  ARM-7135: can't start the quick mode, there is no ISAKMP-SA, remote: 202.45.6.90 d1b05c22facf09ce:b96429fe0d53355c:000025ef
+ERROR 2011/06/17 21:48:51.051 IKE-IPSEC:-  ARM-7135: can't start the quick mode, there is no ISAKMP-SA, remote: 202.45.6.90 d1b05c22facf09ce:b96429fe0d53355c:0000814c
+ERROR 2011/06/17 21:49:00.830 IKE-IPSEC:-  ARM-7135: can't start the quick mode, there is no ISAKMP-SA, remote: 202.45.6.90 d1b05c22facf09ce:b96429fe0d53355c:000025ef
+ERROR 2011/06/17 21:49:01.049 IKE-IPSEC:-  ARM-7135: can't start the quick mode, there is no ISAKMP-SA, remote: 202.45.6.90 d1b05c22facf09ce:b96429fe0d53355c:0000814c
+ERROR 2011/06/17 21:49:10.830 IKE-IPSEC:-  ARM-7135: can't start the quick mode, there is no ISAKMP-SA, remote: 202.45.6.90 d1b05c22facf09ce:b96429fe0d53355c:000025ef
+ERROR 2011/06/17 21:49:11.050 IKE-IPSEC:-  ARM-7135: can't start the quick mode, there is no ISAKMP-SA, remote: 202.45.6.90 d1b05c22facf09ce:b96429fe0d53355c:0000814c
+ERROR 2011/06/17 21:49:20.830 IKE-IPSEC:-  ARM-7135: can't start the quick mode, there is no ISAKMP-SA, remote: 202.45.6.90 d1b05c22facf09ce:b96429fe0d53355c:000025ef
+ERROR 2011/06/17 22:34:33.581 IKE-IPSEC:-  [Nx 1657] DPD: remote (ISAKMP-SA remote: 182.72.142.26[500] spi=2f041f0b3dd3ecb3:43e4d93da622215d) seems to be dead. Seq# 0x154
+ERROR 2011/06/17 22:34:36.584 IKE-IPSEC:-  [Nx 7244] DPD: remote (ISAKMP-SA remote: 115.248.131.160[500] spi=e9ef0714800f3cd6:71a8962035a3704b) seems to be dead. Seq# 0xce5
+ERROR 2011/06/17 22:34:36.584 IKE-IPSEC:-  [Nx 7244] DPD: remote (ISAKMP-SA remote: 115.248.131.160[500] spi=7ca941814e038e99:66d2f8ad7d68fcf5) seems to be dead. Seq# 0xce5

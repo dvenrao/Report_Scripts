@@ -1,0 +1,6 @@
+WARN  2010/07/22 03:36:45.987 NI [6,602,L,172.17.1.11:21016 10.0.2.11:22] ARM-1962: got ACK waiting for SYN_ACK - route problem?
+WARN  2010/07/22 03:39:10.636 NI [6,602,L,172.17.1.11:21055 10.0.4.11:22] ARM-1962: got ACK waiting for SYN_ACK - route problem?
+WARN  2010/07/22 03:40:28.992 NI [6,602,L,172.17.1.11:21060 10.0.2.21:22] ARM-1962: got ACK waiting for SYN_ACK - route problem?
+WARN  2010/07/22 04:56:48.494 NI [6,602,L,172.17.1.10:49670 10.0.4.11:22] ARM-1962: got ACK waiting for SYN_ACK - route problem?
+WARN  2010/07/22 06:38:01.344 NI [6,602,L,172.17.1.124:55190 10.0.2.21:22] ARM-1962: got ACK waiting for SYN_ACK - route problem?
+WARN  2010/07/22 06:38:10.039 NI [6,602,L,172.17.1.124:55191 10.0.4.21:22] ARM-1962: got ACK waiting for SYN_ACK - route problem?

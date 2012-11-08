@@ -1,0 +1,5 @@
+ALERT 2011/06/17 21:12:13.388 CONTROL:controller ARM-1702: Process (pid=23090 ipsec) exited with status code 0. Program executable: /opt/aryaka/asn/1.2.0.9.opt/bin/asn_racoon, arguments: -D -o 4056 -m 4028 , working directory: /var/aryaka/nexus/racoon, environ = PATH=/opt/aryaka/asn/1.2.0.9.opt/bin:/sbin:/bin:/usr/sbin:/usr/bin, LD_LIBRARY_PATH=/opt/aryaka/asn/1.2.0.9.opt/lib, PWD=/var/aryaka/nexus/racoon, NEXUS_BASE_DIR=/var/aryaka/nexus, USER=root
+ERROR 2011/06/17 21:12:13.393 CONTROL:controller ARM-1670: Intercepted stderr output: (asn_racoon-0 [2540]) ERROR 2011/06/17 21:12:13.393 CONTROL:log ARM-4689: ../../log_settings.xml: configuring output default_ring with params={max_file_size=100m}: Unknown ring buffer output parameter "max_file_size"
+
+ERROR 2011/06/17 21:12:13.393 CONTROL:core ARM-4676: Error loading "/var/aryaka/log_settings.xml"
+

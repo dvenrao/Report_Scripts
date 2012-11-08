@@ -1,0 +1,7 @@
+ERROR 2011/06/17 17:57:21.451 IKE-IPSEC:-  [Nx 7151] DPD: remote (ISAKMP-SA remote: 192.245.195.4[500] spi=8bc974ff32fc2849:e40997bf1f4d7529) seems to be dead. Seq# 0xaf5
+ERROR 2011/06/17 18:42:56.568 IKE-IPSEC:-  [Nx 7151] DPD: remote (ISAKMP-SA remote: 192.245.195.4[500] spi=b71268ff487f3460:448d5ece78be2214) seems to be dead. Seq# 0x3e9
+ERROR 2011/06/17 19:30:57.324 IKE-IPSEC:-  [Nx 7151] DPD: remote (ISAKMP-SA remote: 192.245.195.4[500] spi=b9f42a0992db4d0d:9d3aaee1f33f64e0) seems to be dead. Seq# 0xb6
+ERROR 2011/06/17 20:18:58.356 IKE-IPSEC:-  [Nx 7151] DPD: remote (ISAKMP-SA remote: 192.245.195.4[500] spi=00bd37a606443709:edaa885dac7ac98f) seems to be dead. Seq# 0x13a
+ERROR 2011/06/17 21:06:59.443 IKE-IPSEC:-  [Nx 7151] DPD: remote (ISAKMP-SA remote: 192.245.195.4[500] spi=26a3e1eb58551d7b:57c48dd19ea0734c) seems to be dead. Seq# 0xb47
+ERROR 2011/06/17 21:55:00.303 IKE-IPSEC:-  [Nx 7151] DPD: remote (ISAKMP-SA remote: 192.245.195.4[500] spi=6caf181c10c1e536:8817a91d6af3aeee) seems to be dead. Seq# 0xb79
+ERROR 2011/06/17 22:43:01.314 IKE-IPSEC:-  [Nx 7151] DPD: remote (ISAKMP-SA remote: 192.245.195.4[500] spi=c7082e9af403ea8f:6e50a1cbe7199248) seems to be dead. Seq# 0x347

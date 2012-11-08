@@ -1,0 +1,322 @@
+ERROR 2011/06/17 22:37:13.077 DEFAULT ARM-8667: nss_ni_ipsec_config: Skipping edge IPSEC configuration.
+ERROR 2011/06/17 22:37:13.145 DEFAULT ARM-8667: nss_ni_ipsec_config: Skipping edge IPSEC configuration.
+ERROR 2011/06/17 22:37:13.349 DEFAULT ARM-8667: nss_ni_ipsec_config: Skipping edge IPSEC configuration.
+ERROR 2011/06/17 22:37:13.396 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 22:37:13.396 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 22:37:13.396 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 22:37:13.396 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 22:37:13.396 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 22:37:13.396 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 22:37:13.396 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 22:37:13.396 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 22:37:13.396 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 22:37:13.396 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 22:37:13.396 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 22:37:13.396 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+WARN  2011/06/17 22:37:13.410 IKE-IPSEC:-  ARM-7169: NAT-T is enabled in at least one remote{} section,
+WARN  2011/06/17 22:37:13.410 IKE-IPSEC:-  ARM-7170: but no 'isakmp_natt' address was specified!
+ERROR 2011/06/17 22:37:13.874 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+WARN  2011/06/17 22:37:28.205 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=ae38e012ff05d1a6:4e54e99e2f3adaa5) Seq#/Fail 0x274/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:37:33.544 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=ae38e012ff05d1a6:4e54e99e2f3adaa5) Seq#/Fail 0x275/2. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:37:38.166 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=ae38e012ff05d1a6:4e54e99e2f3adaa5) Seq#/Fail 0x276/3. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:37:43.910 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=ae38e012ff05d1a6:4e54e99e2f3adaa5) Seq#/Fail 0x277/4. Did not rx DPD ack but sending next packet.
+ERROR 2011/06/17 22:37:46.075 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:37:46.645 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:37:48.147 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=ae38e012ff05d1a6:4e54e99e2f3adaa5) seems to be dead. Seq# 0x278
+WARN  2011/06/17 22:37:48.257 IKE-IPSEC:-  ARM-6710: port 62465 expected, but 0
+ERROR 2011/06/17 22:37:59.333 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:38:05.294 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 9a195764f2a02388:0000000000000000
+ERROR 2011/06/17 22:38:09.366 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:38:18.219 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 f5922e3206936cf6:0000000000000000
+ERROR 2011/06/17 22:38:23.092 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:38:26.297 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:38:28.218 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 07010df71b193520:0000000000000000
+ERROR 2011/06/17 22:38:39.283 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:38:49.338 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:38:57.664 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:39:06.298 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:39:19.309 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:39:25.300 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 bdfe3285fd75ba1b:0000000000000000
+ERROR 2011/06/17 22:39:29.358 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:39:33.076 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:39:38.148 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 ac3e833d1781c788:0000000000000000
+ERROR 2011/06/17 22:39:46.300 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:39:48.134 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 7315ac3086f5eb44:0000000000000000
+ERROR 2011/06/17 22:39:59.106 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:40:09.359 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:40:13.053 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:40:26.278 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:40:39.491 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:40:45.282 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 fd7adc20931a72b3:0000000000000000
+ERROR 2011/06/17 22:40:48.291 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:40:49.324 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:40:58.221 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 6df67db8b0e1f3f2:0000000000000000
+ERROR 2011/06/17 22:41:06.280 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:41:08.114 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 c1bd2145f94d8a0e:0000000000000000
+ERROR 2011/06/17 22:41:19.511 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:41:23.057 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:41:29.336 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:41:46.306 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:41:57.512 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:41:59.415 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:42:05.288 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 8d4f95d8797a1e0d:0000000000000000
+ERROR 2011/06/17 22:42:09.412 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:42:18.225 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 e027dc3a2da43704:0000000000000000
+ERROR 2011/06/17 22:42:26.086 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:42:26.086 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:42:28.124 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 a2309f4b0df10792:0000000000000000
+ERROR 2011/06/17 22:42:33.060 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:42:39.339 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:42:49.363 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:43:06.298 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:43:13.058 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:43:19.401 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:43:25.296 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 2eb70e17dd3c1275:0000000000000000
+ERROR 2011/06/17 22:43:29.368 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:43:38.234 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 653d33a935f93a79:0000000000000000
+ERROR 2011/06/17 22:43:46.304 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:43:48.210 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 649616caf6ace436:0000000000000000
+ERROR 2011/06/17 22:43:53.076 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:43:59.280 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:44:09.371 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:44:26.304 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:44:33.122 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:44:39.404 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:44:45.313 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 450a06b903008fe5:0000000000000000
+ERROR 2011/06/17 22:44:49.424 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:44:58.250 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 19b3d99637f7e274:0000000000000000
+ERROR 2011/06/17 22:45:06.312 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:45:08.247 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 630e35e738c0d289:0000000000000000
+ERROR 2011/06/17 22:45:13.087 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:45:19.396 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:45:29.396 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:45:46.317 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:45:53.091 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:45:59.401 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:46:05.317 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 82670943158256d9:0000000000000000
+ERROR 2011/06/17 22:46:09.388 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:46:18.236 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 47bc461a50bf515e:0000000000000000
+ERROR 2011/06/17 22:46:26.320 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:46:28.153 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 3822c2228017fb4a:0000000000000000
+ERROR 2011/06/17 22:46:33.097 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:46:39.276 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:46:49.390 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:47:06.345 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:47:13.098 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:47:19.378 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:47:25.339 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 4853cbaad88f155d:0000000000000000
+ERROR 2011/06/17 22:47:29.400 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:47:38.263 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 99470dd66da4f814:0000000000000000
+ERROR 2011/06/17 22:47:46.332 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:47:48.166 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 30044917586f6d98:0000000000000000
+ERROR 2011/06/17 22:47:53.103 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:47:59.341 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:48:09.454 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:48:26.331 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:48:33.132 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:48:39.411 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:48:45.353 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 5f15935b11999a7b:0000000000000000
+ERROR 2011/06/17 22:48:49.411 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+WARN  2011/06/17 22:48:50.375 IKE-IPSEC:-  ARM-6710: port 37905 expected, but 0
+ERROR 2011/06/17 22:48:58.284 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 ce788970da8f1168:0000000000000000
+WARN  2011/06/17 22:48:58.285 IKE-IPSEC:-  [Nx 4553] DPD: remote (ISAKMP-SA remote: 209.119.75.162[500] spi=b8ecb99166d6d54f:1e1c8281c6af7e81) Seq#/Fail 0xf82/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:48:58.285 IKE-IPSEC:-  [Nx 7623] DPD: remote (ISAKMP-SA remote: 209.119.61.211[500] spi=236e3e0f8b8b0ea9:b0d5c5ab0777edb0) Seq#/Fail 0x8c4/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:48:58.285 IKE-IPSEC:-  [Nx 7623] DPD: remote (ISAKMP-SA remote: 209.119.61.211[500] spi=e5aa27d9e6c572bf:42ae8bae216feea1) Seq#/Fail 0x8c4/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:48:58.285 IKE-IPSEC:-  [Nx 5182] DPD: remote (ISAKMP-SA remote: 209.119.61.221[4500] spi=1eda5d4662d86e88:cb7545d4e713ab09) Seq#/Fail 0x57d/1. Did not rx DPD ack but sending next packet.
+ERROR 2011/06/17 22:49:06.373 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:49:08.207 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 2dac4f66a6a4b1e6:0000000000000000
+ERROR 2011/06/17 22:49:13.136 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:49:19.406 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:49:20.275 IKE-IPSEC:-  ARM-7497: [Nx 5481 Cx -1] 24.6.117.126 give up to get IPsec-SA due to time up to wait.
+WARN  2011/06/17 22:49:20.374 IKE-IPSEC:-  ARM-6710: port 37905 expected, but 0
+ERROR 2011/06/17 22:49:29.424 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:49:46.199 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:49:53.135 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:49:59.414 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:50:05.193 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 22cf9091857141a6:0000000000000000
+ERROR 2011/06/17 22:50:09.419 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:50:18.127 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 60e90dc9da57c4a6:0000000000000000
+ERROR 2011/06/17 22:50:26.179 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:50:28.179 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 c7b4c3c3a9dacf2f:0000000000000000
+ERROR 2011/06/17 22:50:33.127 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:50:39.643 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:50:49.524 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:51:06.187 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:51:13.124 IKE-IPSEC:-  ARM-8987: IKE pair:: local: 199.59.225.2 remote: 76.21.122.75 NOT configured. (or nexus is dynamic)
+ERROR 2011/06/17 22:51:19.372 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:51:25.187 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 7dff2e6c5ddbf43d:0000000000000000
+ERROR 2011/06/17 22:51:29.427 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:51:38.184 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 919669dd9de25e8d:0000000000000000
+ERROR 2011/06/17 22:51:46.193 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:51:48.147 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 3e8c683e98998463:0000000000000000
+ERROR 2011/06/17 22:51:59.534 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:52:09.477 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:52:26.749 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+WARN  2011/06/17 22:52:38.286 IKE-IPSEC:-  [Nx 4553] DPD: remote (ISAKMP-SA remote: 209.119.75.162[500] spi=e13e0cbff98b03a1:7bdb3ad67c528615) Seq#/Fail 0xf98/1. Did not rx DPD ack but sending next packet.
+ERROR 2011/06/17 22:52:39.476 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:52:45.567 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 40f6420fad3d4cdd:0000000000000000
+ERROR 2011/06/17 22:52:49.437 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:52:58.307 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 d1b014e833061ff6:0000000000000000
+ERROR 2011/06/17 22:53:06.732 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:53:08.154 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 b05efce36727d9bb:0000000000000000
+ERROR 2011/06/17 22:53:19.347 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:53:29.451 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:53:46.753 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:53:59.392 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:54:05.485 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 ab1142c8cb25fa9b:0000000000000000
+ERROR 2011/06/17 22:54:09.608 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:54:18.311 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 ebb0c7ab4c94734d:0000000000000000
+ERROR 2011/06/17 22:54:26.069 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:54:28.247 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 985154ccd3cd100a:0000000000000000
+ERROR 2011/06/17 22:54:39.495 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:54:49.548 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:55:06.711 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:55:19.579 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:55:25.672 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 9f636c5d7e976e6b:0000000000000000
+ERROR 2011/06/17 22:55:29.822 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:55:38.315 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 fdcdeaec3a76d91e:0000000000000000
+ERROR 2011/06/17 22:55:46.695 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+WARN  2011/06/17 22:55:48.257 IKE-IPSEC:-  ARM-6710: port 62465 expected, but 0
+ERROR 2011/06/17 22:55:48.261 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 af9a8932ca15eda5:0000000000000000
+ERROR 2011/06/17 22:55:59.481 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+WARN  2011/06/17 22:56:03.500 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=895d72729c974d7e:64e4de0b13c80ba0) Seq#/Fail 0x933/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:56:08.478 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=895d72729c974d7e:64e4de0b13c80ba0) Seq#/Fail 0x934/2. Did not rx DPD ack but sending next packet.
+ERROR 2011/06/17 22:56:09.561 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+WARN  2011/06/17 22:56:13.581 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=895d72729c974d7e:64e4de0b13c80ba0) Seq#/Fail 0x935/3. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:56:18.480 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=895d72729c974d7e:64e4de0b13c80ba0) Seq#/Fail 0x936/4. Did not rx DPD ack but sending next packet.
+ERROR 2011/06/17 22:56:23.671 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=895d72729c974d7e:64e4de0b13c80ba0) seems to be dead. Seq# 0x937
+ERROR 2011/06/17 22:56:26.243 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:56:39.366 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:56:45.460 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 641be09300a72c7d:0000000000000000
+ERROR 2011/06/17 22:56:49.481 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:56:58.352 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 873209bed027deb5:0000000000000000
+ERROR 2011/06/17 22:57:06.666 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:57:08.428 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 5d5ae6898a4e1dea:0000000000000000
+ERROR 2011/06/17 22:57:19.388 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:57:29.567 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:57:46.683 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:57:59.517 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:58:05.638 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 9d771a57db51ddc1:0000000000000000
+ERROR 2011/06/17 22:58:09.587 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:58:18.245 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 35a21fa3dfd4d751:0000000000000000
+ERROR 2011/06/17 22:58:26.966 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:58:28.504 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 f2d6ed4edaa655b1:0000000000000000
+ERROR 2011/06/17 22:58:39.227 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:58:49.569 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:59:06.668 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:59:19.570 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:59:25.663 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 df3747a1b1a8f5d7:0000000000000000
+ERROR 2011/06/17 22:59:29.507 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:59:38.487 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 9472df2831210839:0000000000000000
+ERROR 2011/06/17 22:59:46.661 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 22:59:48.508 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 5de69e61ad806c39:0000000000000000
+ERROR 2011/06/17 22:59:59.562 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:00:09.502 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:00:26.292 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:00:39.487 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:00:45.619 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 935a0d0b6811dcb7:0000000000000000
+ERROR 2011/06/17 23:00:49.714 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:00:58.508 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 0fd27b25f39468d7:0000000000000000
+ERROR 2011/06/17 23:01:06.793 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:01:08.293 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 98a7c53aaef919d3:0000000000000000
+ERROR 2011/06/17 23:01:19.278 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:01:29.522 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:01:46.650 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:01:59.307 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:02:05.200 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 4f1fc9fac5cc401f:0000000000000000
+ERROR 2011/06/17 23:02:09.615 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:02:18.488 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 f09eb708c5f850b1:0000000000000000
+ERROR 2011/06/17 23:02:26.124 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:02:28.357 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 f5ca17f24ba3b117:0000000000000000
+ERROR 2011/06/17 23:02:39.598 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:02:49.820 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:03:06.921 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:03:19.609 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:03:25.739 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 ab7c1839b3d74efa:0000000000000000
+ERROR 2011/06/17 23:03:29.543 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:03:38.299 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 82cc47e86f932524:0000000000000000
+ERROR 2011/06/17 23:03:46.476 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:03:48.396 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 6dbd108b4ab23ea3:0000000000000000
+ERROR 2011/06/17 23:03:59.477 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:04:09.866 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:04:26.396 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:04:39.259 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:04:45.664 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 4753d1f49fa40d9d:0000000000000000
+ERROR 2011/06/17 23:04:49.552 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:04:58.379 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 4d9fe1458eaf8455:0000000000000000
+ERROR 2011/06/17 23:05:06.505 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:05:08.290 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 1bd8b4c876eda14e:0000000000000000
+ERROR 2011/06/17 23:05:19.809 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:05:29.566 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:05:46.983 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:05:59.801 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:06:05.691 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 c90f63fd554b825a:0000000000000000
+ERROR 2011/06/17 23:06:09.659 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:06:18.290 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 4186a362bd2dc326:0000000000000000
+ERROR 2011/06/17 23:06:26.547 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:06:28.416 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 7a6bf0836ce33624:0000000000000000
+ERROR 2011/06/17 23:06:39.512 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:06:49.859 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:07:06.631 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:07:19.548 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:07:25.907 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 4eb6240d7119b54c:0000000000000000
+ERROR 2011/06/17 23:07:29.650 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:07:38.334 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 91fc0a7e41df7fda:0000000000000000
+ERROR 2011/06/17 23:07:46.151 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:07:48.325 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 6fd6e122d6e3f4fe:0000000000000000
+ERROR 2011/06/17 23:07:59.592 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:08:09.694 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:08:26.515 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:08:39.395 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:08:45.714 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 b495636dbfccaffa:0000000000000000
+ERROR 2011/06/17 23:08:49.597 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:08:58.408 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 f96018e82d2093f6:0000000000000000
+ERROR 2011/06/17 23:09:06.657 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:09:08.405 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 8160e04ebcb9bae4:0000000000000000
+ERROR 2011/06/17 23:09:19.607 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:09:29.620 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:09:46.659 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:09:59.595 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:10:05.021 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 257a4795012c9390:0000000000000000
+ERROR 2011/06/17 23:10:09.600 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:10:18.375 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 a5ebbc1b4dad05d0:0000000000000000
+ERROR 2011/06/17 23:10:26.809 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:10:28.556 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 3f4f2dc21632b1f8:0000000000000000
+ERROR 2011/06/17 23:10:39.584 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:10:49.710 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:11:06.659 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:11:19.546 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:11:25.702 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 6d515b2e0f485591:0000000000000000
+ERROR 2011/06/17 23:11:29.846 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:11:38.343 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 8071647180416948:0000000000000000
+ERROR 2011/06/17 23:11:46.744 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:11:48.576 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 059856a6794fa002:0000000000000000
+ERROR 2011/06/17 23:11:59.540 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:12:09.607 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:12:26.545 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:12:39.523 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:12:45.627 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 5fbd0c13c5b6247f:0000000000000000
+ERROR 2011/06/17 23:12:49.628 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:12:58.326 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 e5b94a2cf60e6754:0000000000000000
+ERROR 2011/06/17 23:13:06.374 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:13:08.540 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 e63fe3925e7c07eb:0000000000000000
+ERROR 2011/06/17 23:13:19.631 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:13:29.630 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:13:46.288 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+WARN  2011/06/17 23:13:48.265 IKE-IPSEC:-  ARM-6710: port 62465 expected, but 0
+WARN  2011/06/17 23:13:53.875 IKE-IPSEC:-  ARM-6710: port 37905 expected, but 0
+ERROR 2011/06/17 23:13:59.702 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+WARN  2011/06/17 23:14:03.724 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=54653a883ee9c59c:2bd5bc1eb4b143f5) Seq#/Fail 0xa9a/1. Did not rx DPD ack but sending next packet.
+ERROR 2011/06/17 23:14:05.177 IKE-IPSEC:-  ARM-7174: [Nx 997] phase1 negotiation failed due to time up. remote: 99.38.183.38 4b2a095b53b511d0:0000000000000000
+WARN  2011/06/17 23:14:08.581 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=54653a883ee9c59c:2bd5bc1eb4b143f5) Seq#/Fail 0xa9b/2. Did not rx DPD ack but sending next packet.
+ERROR 2011/06/17 23:14:09.803 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 
+WARN  2011/06/17 23:14:13.825 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=54653a883ee9c59c:2bd5bc1eb4b143f5) Seq#/Fail 0xa9c/3. Did not rx DPD ack but sending next packet.
+ERROR 2011/06/17 23:14:18.310 IKE-IPSEC:-  ARM-7174: [Nx 6839] phase1 negotiation failed due to time up. remote: 198.137.200.40 8e38035ef069a438:0000000000000000
+WARN  2011/06/17 23:14:18.310 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=54653a883ee9c59c:2bd5bc1eb4b143f5) Seq#/Fail 0xa9d/4. Did not rx DPD ack but sending next packet.
+ERROR 2011/06/17 23:14:23.855 IKE-IPSEC:-  [Nx 6647] DPD: remote (ISAKMP-SA remote: 12.177.34.130[500] spi=54653a883ee9c59c:2bd5bc1eb4b143f5) seems to be dead. Seq# 0xa9e
+WARN  2011/06/17 23:14:23.952 IKE-IPSEC:-  ARM-6710: port 62465 expected, but 0
+WARN  2011/06/17 23:14:24.233 IKE-IPSEC:-  ARM-6710: port 62465 expected, but 0
+ERROR 2011/06/17 23:14:26.587 IKE-IPSEC:-  [Nx 997 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 99.38.183.38[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:14:28.583 IKE-IPSEC:-  ARM-7174: [Nx 1424] phase1 negotiation failed due to time up. remote: 98.207.91.156 2305c6132530e807:0000000000000000
+ERROR 2011/06/17 23:14:39.639 IKE-IPSEC:-  [Nx 6839 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 198.137.200.40[500]->199.59.225.2[500] 
+ERROR 2011/06/17 23:14:49.863 IKE-IPSEC:-  [Nx 1424 Cx -1] phase2 negotiation failed due to time up waiting for phase1. ESP 98.207.91.156[500]->199.59.225.2[500] 

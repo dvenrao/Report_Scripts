@@ -1,0 +1,4 @@
+WARN  2011/06/17 23:05:09.024 IKE-IPSEC:-  ARM-7169: NAT-T is enabled in at least one remote{} section,
+WARN  2011/06/17 23:05:09.024 IKE-IPSEC:-  ARM-7170: but no 'isakmp_natt' address was specified!
+WARN  2011/06/17 23:07:46.067 IKE-IPSEC:-  [Nx 690] DPD: remote (ISAKMP-SA remote: 122.181.163.209[4500] spi=b0162a12f059bc36:c69618a625bad490) Seq#/Fail 0xcf/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 23:07:46.068 IKE-IPSEC:-  [Nx 690] DPD: remote (ISAKMP-SA remote: 122.181.163.209[4500] spi=2146a79996c44010:245983b45568545c) Seq#/Fail 0xd0/1. Did not rx DPD ack but sending next packet.

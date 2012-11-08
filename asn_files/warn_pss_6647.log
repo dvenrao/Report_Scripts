@@ -1,0 +1,2 @@
+WARN  2011/06/17 21:49:13.432 ARR:NEXUSFSM [ ] ARM-1095: Ping time out occurs. Enter half-optimized mode.
+WARN  2011/06/17 21:49:21.463 ARR:NEXUSFSM [6,6702,L,172.16.16.136:64589 10.99.2.190:5061] ARM-1096: First ping received after time out.

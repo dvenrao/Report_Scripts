@@ -1,0 +1,6 @@
+WARN  2011/06/17 22:49:37.093 NI [ ] ARM-1868: NSM: connexus=7098 state=2 STATE_BLOCKED
+WARN  2011/06/17 22:49:39.376 NI [6,7098,L,192.168.1.26:58078 10.1.10.252:443] ARM-1977: NSM connexus state not up, cannot intercept.
+WARN  2011/06/17 22:49:39.382 NI [6,7098,L,192.168.1.29:837 10.1.10.11:111] ARM-1977: NSM connexus state not up, cannot intercept.
+WARN  2011/06/17 22:49:39.436 NI [6,7098,L,192.168.1.26:58079 10.1.10.252:443] ARM-1977: NSM connexus state not up, cannot intercept.
+WARN  2011/06/17 22:49:39.443 NI [6,7098,L,192.168.1.26:58080 10.1.10.252:443] ARM-1977: NSM connexus state not up, cannot intercept.
+WARN  2011/06/17 22:49:40.099 NI [ ] ARM-1868: NSM: connexus=7098 state=1 STATE_UP

@@ -1,0 +1,48 @@
+ERROR 2011/06/17 21:11:29.428 DEFAULT ARM-8667: nss_ni_ipsec_config: Skipping edge IPSEC configuration.
+ERROR 2011/06/17 21:11:29.430 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.430 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.430 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:11:29.431 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+WARN  2011/06/17 21:11:29.440 IKE-IPSEC:-  ARM-7169: NAT-T is enabled in at least one remote{} section,
+WARN  2011/06/17 21:11:29.440 IKE-IPSEC:-  ARM-7170: but no 'isakmp_natt' address was specified!
+WARN  2011/06/17 21:26:54.903 IKE-IPSEC:-  [Nx -1] DPD: remote (ISAKMP-SA remote: 10.160.7.2[500] spi=f8552d272ab4cff2:0b96698319811743) Seq#/Fail 0x197d/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:13:00.296 IKE-IPSEC:-  [Nx -1] DPD: remote (ISAKMP-SA remote: 10.160.16.2[500] spi=d53be676083362e0:0633d40dacc3a837) Seq#/Fail 0xdb2/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:15:04.325 IKE-IPSEC:-  [Nx -1] DPD: remote (ISAKMP-SA remote: 10.160.7.2[500] spi=f8552d272ab4cff2:0b96698319811743) Seq#/Fail 0x1a94/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:23:13.532 IKE-IPSEC:-  [Nx -1] DPD: remote (ISAKMP-SA remote: 10.160.11.2[500] spi=86c83e19c646b1a4:e1455db2cdb1b252) Seq#/Fail 0x35b/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:23:13.532 IKE-IPSEC:-  [Nx -1] DPD: remote (ISAKMP-SA remote: 10.160.3.2[500] spi=a15ee28f0d7a595f:ed9fad89f9475d71) Seq#/Fail 0xf30/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:50:48.464 IKE-IPSEC:-  [Nx -1] DPD: remote (ISAKMP-SA remote: 10.160.11.2[500] spi=86c83e19c646b1a4:e1455db2cdb1b252) Seq#/Fail 0x400/1. Did not rx DPD ack but sending next packet.

@@ -1,0 +1,98 @@
+ `date +"%d-%m-%Y_%H:%M"`
+ ls -al|grep '^d'
+ 
+ 
+ grep -i score gettysburg-address.txt   #case senstive
+ grep -v fred /etc/passwd				#except fred
+ ls -al | grep '^d'						#line starts with d - directories
+  grep -n '100%' logfile				#display line number
+ grep -A 5 "the living" gettys.txt		#dispays 5 lines after match -B before
+grep text filename | head -5
+
+ 
+ 
+ 
+ 
+ 
+  wget http://172.19.1.35/s.100maa -o log -O jpg
+
+ 
+ 
+ /usr/bin/wget http://192.168.111.15:8005/5meg.zip -d -O /dev/null --tries=1 --no-cache
+
+ifconfig  | grep 'inet addr:'| grep -v '127.0.0.1' | cut -d: -f2 | awk '{ print $1}'
+
+
+ tail -n 4 log |grep 100%|cut -d "=" -f 2
+ 
+ head -n 10 log| tail -1 //print particular line
+ 
+ ##############################3
+ smb
+  smbclient //172.17.1.131/share venkee -U administrator
+  smbclient //172.17.1.131/share -A .smbclient
+cat .smbclient
+username=joetest
+password=12345678
+domain=WINDMN
+ smbclient //172.17.1.131/share -A .smbclient -c "cd songs; lcd /root/backup; prompt; recurse; mget *; exit;"
+ or mput
+##################################
+ssh 10.0.2.21 " asn_cli.py -n pss_579 -c 'show tcp conntable'| awk '/Total Intercepted/ {print $4}'"
+ssh 10.0.2.11 "  arlog -n ha_manager -f warn -D; "
+ssh 10.0.4.11 "  arlog -n pns690 -f warn -D;  "
+./arlogmerge -F ./asn_files/*_controller_sjc_pns* > ./asn_files/controller_sjc_pns.log
+./arlogmerge -F ./asn_files/*ha_manager_sjc_pns* > ./asn_files/ha_manager_sjc_pns.log
+./arlogmerge -F ./asn_files/*_controller_sjc_pss* > ./asn_files/controller_sjc_pss.log
+./arlogmerge -F ./asn_files/*ha_manager_sjc_pss* > ./asn_files/ha_manager_sjc_pss.log
+./arlogmerge -F ./asn_files/*ipsec_sjc* > ./asn_files/ipsec_sjc.log
+./asn_files/ha_manager_bom_pns.log
+./asn_files/ha_manager_bom_pss.log
+./asn_files/ha_manager_maa_pns.log
+./asn_files/ha_manager_maa_pss.log
+./asn_files/ha_manager_sjc_pns.log
+./asn_files/ha_manager_sjc_pss.log
+./asn_files/ipsec_bom.log
+./asn_files/ipsec_maa.log
+./asn_files/ipsec_sjc.log
+./arlogmerge -F ./asn_files/*pns_579* > ./asn_files/pns_579.log
+./arlogmerge -F ./asn_files/*pss_579* > ./asn_files/pss_579.log
+./arlogmerge -F ./asn_files/*pns_554* > ./asn_files/pns_554.log
+./arlogmerge -F ./asn_files/*pss_554* > ./asn_files/pss_554.log
+./asn_files/pns_579.log
+./asn_files/pss_579.log
+./asn_files/pns_554.log
+./asn_files/pss_554.log
+./arlogmerge -F ./asn_files/*pns_715* > ./asn_files/pns_715.log
+./arlogmerge -F ./asn_files/*pss_715* > ./asn_files/pss_715.log
+./arlogmerge -F ./asn_files/*pns_690* > ./asn_files/pns_690.log
+./arlogmerge -F ./asn_files/*pss_690* > ./asn_files/pss_690.log
+./asn_files/pns_715.log
+./asn_files/pss_715.log
+./asn_files/pns_690.log
+./asn_files/pss_690.log
+./arlogmerge -F ./asn_files/*pns_906* > ./asn_files/pns_906.log
+./arlogmerge -F ./asn_files/*pss_906* > ./asn_files/pss_906.log
+./arlogmerge -F ./asn_files/*pns_879* > ./asn_files/pns_879.log
+./arlogmerge -F ./asn_files/*pss_879* > ./asn_files/pss_879.log
+./asn_files/pns_906.log
+./asn_files/pss_906.log
+./asn_files/pns_879.log
+./asn_files/pss_879.log
+./arlogmerge -F ./asn_files/*pns_964* > ./asn_files/pns_964.log
+./arlogmerge -F ./asn_files/*pss_964* > ./asn_files/pss_964.log
+./arlogmerge -F ./asn_files/*pns_2262* > ./asn_files/pns_2262.log
+./arlogmerge -F ./asn_files/*pss_2262* > ./asn_files/pss_2262.log
+./asn_files/pns_964.log
+./asn_files/pss_964.log
+./asn_files/pns_2262.log
+./asn_files/pss_2262.log
+243402
+177497
+./Bng_Bom.csv
+./Bng_Mil.csv
+./Mil_Ash.csv
+./Mil_Sjc.csv
+
+
+#######################################

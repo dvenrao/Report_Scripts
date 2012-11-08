@@ -1,0 +1,2 @@
+WARN  2011/06/17 21:10:41.339 IKE-IPSEC:-  ARM-7169: NAT-T is enabled in at least one remote{} section,
+WARN  2011/06/17 21:10:41.339 IKE-IPSEC:-  ARM-7170: but no 'isakmp_natt' address was specified!

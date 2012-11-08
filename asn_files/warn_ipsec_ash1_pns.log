@@ -1,0 +1,21 @@
+WARN  2011/06/17 18:30:59.978 IKE-IPSEC:-  ARM-6710: port 19461 expected, but 0
+WARN  2011/06/17 18:56:19.590 IKE-IPSEC:-  [Nx 7211] DPD: remote (ISAKMP-SA remote: 63.117.221.51[500] spi=624847a265112e6f:9f80839010d7721c) Seq#/Fail 0x86a/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 18:56:19.590 IKE-IPSEC:-  [Nx 7211] DPD: remote (ISAKMP-SA remote: 63.117.221.51[500] spi=1c7061f27e918a94:43a207f30d8abe7e) Seq#/Fail 0x86a/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 19:04:21.382 IKE-IPSEC:-  [Nx 5103] DPD: remote (ISAKMP-SA remote: 207.211.57.233[4500] spi=0596bcf783d0c729:9ab9b908421460af) Seq#/Fail 0xfae/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 19:23:24.761 IKE-IPSEC:-  [Nx 7211] DPD: remote (ISAKMP-SA remote: 63.117.221.51[500] spi=624847a265112e6f:9f80839010d7721c) Seq#/Fail 0x90d/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 19:23:24.761 IKE-IPSEC:-  [Nx 7211] DPD: remote (ISAKMP-SA remote: 63.117.221.51[500] spi=1c7061f27e918a94:43a207f30d8abe7e) Seq#/Fail 0x90d/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 19:25:09.961 IKE-IPSEC:-  [Nx 7211] DPD: remote (ISAKMP-SA remote: 63.117.221.51[500] spi=624847a265112e6f:9f80839010d7721c) Seq#/Fail 0x918/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 19:31:00.082 IKE-IPSEC:-  ARM-6710: port 19461 expected, but 0
+WARN  2011/06/17 19:33:23.585 IKE-IPSEC:-  [Nx -1] DPD: remote (ISAKMP-SA remote: 10.160.14.2[500] spi=86c83e19c646b1a4:e1455db2cdb1b252) Seq#/Fail 0x799/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 20:05:38.132 IKE-IPSEC:-  [Nx -1] DPD: remote (ISAKMP-SA remote: 10.160.14.2[500] spi=86c83e19c646b1a4:e1455db2cdb1b252) Seq#/Fail 0x85a/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 20:12:39.430 IKE-IPSEC:-  [Nx 7211] DPD: remote (ISAKMP-SA remote: 63.117.221.51[500] spi=1c7061f27801c25e:de01bc4562c1f7e5) Seq#/Fail 0xb25/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 20:31:00.185 IKE-IPSEC:-  ARM-6710: port 19461 expected, but 0
+WARN  2011/06/17 20:59:43.334 IKE-IPSEC:-  [Nx -1] DPD: remote (ISAKMP-SA remote: 10.160.14.2[500] spi=86c83e19c646b1a4:e1455db2cdb1b252) Seq#/Fail 0x99f/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 21:11:33.455 IKE-IPSEC:-  [Nx -1] DPD: remote (ISAKMP-SA remote: 10.160.14.2[500] spi=86c83e19c646b1a4:e1455db2cdb1b252) Seq#/Fail 0x9e6/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 21:31:00.296 IKE-IPSEC:-  ARM-6710: port 19461 expected, but 0
+WARN  2011/06/17 22:02:13.289 IKE-IPSEC:-  [Nx -1] DPD: remote (ISAKMP-SA remote: 10.160.14.2[500] spi=86c83e19c646b1a4:e1455db2cdb1b252) Seq#/Fail 0xb15/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:05:33.433 IKE-IPSEC:-  [Nx 5103] DPD: remote (ISAKMP-SA remote: 207.211.57.233[4500] spi=ae4a5f356c19c0e4:9ab9b908a321b0c6) Seq#/Fail 0xb81/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:21:39.450 IKE-IPSEC:-  [Nx 7211] DPD: remote (ISAKMP-SA remote: 63.117.221.51[500] spi=fc5d8298108c00b8:9f8083902f9f746f) Seq#/Fail 0xf01/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:21:39.450 IKE-IPSEC:-  [Nx 7211] DPD: remote (ISAKMP-SA remote: 63.117.221.51[500] spi=1c7061f2f80454cf:9fe2ab5eb665d0b2) Seq#/Fail 0xf01/1. Did not rx DPD ack but sending next packet.
+WARN  2011/06/17 22:31:00.339 IKE-IPSEC:-  ARM-6710: port 19461 expected, but 0
+WARN  2011/06/17 23:12:15.121 IKE-IPSEC:-  [Nx -1] DPD: remote (ISAKMP-SA remote: 10.160.14.2[500] spi=86c83e19c646b1a4:e1455db2cdb1b252) Seq#/Fail 0xcb8/1. Did not rx DPD ack but sending next packet.

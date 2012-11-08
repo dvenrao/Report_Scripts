@@ -1,0 +1,7 @@
+WARN  2011/06/17 21:11:28.135 CONTROL:directory [10.0.14.22:44434 10.0.14.11:48401] ARM-1618: Directory change failure: op=MODIFY key=nexus=0,type=controller,machine=5861 name=pid value=3777: UNKNOWN_KEY
+WARN  2011/06/17 21:11:28.135 CONTROL:directory [10.0.14.22:44434 10.0.14.11:48401] ARM-1618: Directory change failure: op=MODIFY key=nexus=0,type=controller,machine=5861 name=control_ip value=10.0.14.22: UNKNOWN_KEY
+WARN  2011/06/17 21:11:28.135 CONTROL:directory [10.0.14.22:44434 10.0.14.11:48401] ARM-1618: Directory change failure: op=MODIFY key=nexus=0,type=controller,machine=5861 name=control_port value=58611: UNKNOWN_KEY
+WARN  2011/06/17 21:11:28.135 CONTROL:directory [10.0.14.22:44434 10.0.14.11:48401] ARM-1618: Directory change failure: op=MODIFY key=nexus=0,type=controller,machine=5861 name=cli_port value=0: UNKNOWN_KEY
+WARN  2011/06/17 21:11:28.135 CONTROL:directory [10.0.14.22:44434 10.0.14.11:48401] ARM-1618: Directory change failure: op=MODIFY key=nexus=0,type=controller,machine=5861 name=run_version value=1.2.0.2.opt: UNKNOWN_KEY
+WARN  2011/06/17 21:11:28.135 CONTROL:directory [10.0.14.22:44434 10.0.14.11:48401] ARM-1618: Directory change failure: op=MODIFY key=nexus=0,type=controller,machine=5861 name=run_build value=Mon Feb  7 11:12:55 IST 2011 (build) 1.2.0.2-6448 x86_64: UNKNOWN_KEY
+WARN  2011/06/17 21:11:28.135 CONTROL:directory [10.0.14.22:44434 10.0.14.11:48401] ARM-1618: Directory change failure: op=MODIFY key=nexus=0,type=controller,machine=5861 name=run_config value=1298505535: UNKNOWN_KEY

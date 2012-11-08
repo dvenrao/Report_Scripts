@@ -1,0 +1,4 @@
+ERROR 2011/06/17 21:10:41.113 CONTROL:controller ARM-1670: Intercepted stderr output: (asn_racoon-0 [21210]) ERROR 2011/06/17 21:10:41.113 CONTROL:log ARM-4689: ../../log_settings.xml: configuring output default_ring with params={max_file_size=100m}: Unknown ring buffer output parameter "max_file_size"
+
+ERROR 2011/06/17 21:10:41.113 CONTROL:core ARM-4676: Error loading "/var/aryaka/log_settings.xml"
+

@@ -1,0 +1,599 @@
+LIVE ARYAKA POP REPORT
+
+####################sjc POP INFO ####################
+Type        Nexus                Machine      Run Status              restart  pid  Version
+controller                       atan1.sjc1     running ( 25d 10:43:24)        9714 1.0.1.0.opt
+ha_manager                       atan1.sjc1     running ( 12d 11:59:50)        9708 1.0.1.0.opt
+ipsec                            atan1.sjc1     running ( 11d 14:15:34)  yes  14328 1.0.1.0.opt
+controller                       apan1.sjc1     running ( 25d 10:43:27)       32083 1.0.1.0.opt
+pan-ni      Aryaka:Milpitas:579  apan1.sjc1     running ( 25d 10:43:21)  yes  32265 1.0.1.0.opt
+tan-ni      Aryaka:Milpitas:579  atan1.sjc1     running ( 25d 10:43:27)  yes   9419 1.0.1.0.opt
+pan-ni      Gluster:Milpitas:715 apan1.sjc1     running ( 31d 23:51:54)  yes  31543 1.0.0.0.opt
+tan-ni      Gluster:Milpitas:715 atan1.sjc1     running ( 35d 18:42:17)  yes   9296 1.0.0.0.opt
+pan-ni      Aryaka:Los Angeles:842 apan1.sjc1     running ( 25d 10:43:21)  yes  32272 1.0.1.0.opt
+tan-ni      Aryaka:Los Angeles:842 atan1.sjc1     running ( 25d 10:43:27)  yes   9435 1.0.1.0.opt
+pan-ni      Pronto Networks:Pleasanton:906 apan1.sjc1     running ( 35d 18:31:25)  yes   6276 1.0.0.0.opt
+tan-ni      Pronto Networks:Pleasanton:906 atan1.sjc1     running ( 35d 18:42:17)  yes   9344 1.0.0.0.opt
+pan-ni      Massive Dynamics:Headquarter:964 apan1.sjc1     running (     17:29:23)  yes   6266 1.0.2.0.opt
+tan-ni      Massive Dynamics:Headquarter:964 atan1.sjc1     running ( 11d 13:41:34)  yes  32029 1.0.2.0.opt
+pan-ni      Raj Abhyanker LLP:Mountain View:997 apan1.sjc1     running ( 35d 18:42:08)  yes   4776 1.0.0.0.opt
+tan-ni      Raj Abhyanker LLP:Mountain View:997 atan1.sjc1     running ( 35d 18:42:16)  yes   9436 1.0.0.0.opt
+pan-ni      Aayuja:Fremont:1424  apan1.sjc1     running ( 13d 14:05:37)  yes    385 1.0.0.0.opt
+tan-ni      Aayuja:Fremont:1424  atan1.sjc1     running ( 13d 14:05:43)  yes  15891 1.0.0.0.opt
+pan-ni      Aryaka:Los Gatos:1483 apan1.sjc1     running ( 25d 10:43:21)  yes  32289 1.0.1.0.opt
+tan-ni      Aryaka:Los Gatos:1483 atan1.sjc1     running ( 13d 14:05:43)  yes  15882 1.0.1.0.opt
+pan-ni      Tavant Technologies, Inc.:Santa Clara:1575 apan1.sjc1     running ( 33d 09:43:37)  yes  12907 1.0.0.0.opt
+tan-ni      Tavant Technologies, Inc.:Santa Clara:1575 atan1.sjc1     running ( 35d 18:42:16)  yes   9609 1.0.0.0.opt
+pan-ni      Cloud.com:Cupertino:2148 apan1.sjc1     running ( 33d 07:30:47)  yes  30101 1.0.0.0.opt
+tan-ni      Cloud.com:Cupertino:2148 atan1.sjc1     running ( 33d 07:30:48)  yes  12774 1.0.0.0.opt
+
+
+----------sjc arnetstatus ----------
+
+
+----------sjc IPSEC INFO----------
+nexus  type  hostname  machine                                 status_key                                fail_count       last_update          status   
+    0 ipsec atan1.sjc1    35                                                                     default     0      2010/10/20 10:59:58.526             
+    0 ipsec atan1.sjc1    35            ike:core:10.160.2.2:10.160.4.2:e3807a2ce3de3a3c:7254e959cdcabb28     0      2010/10/20 10:59:58.526 established 
+  579 ipsec atan1.sjc1    35     ike:edge:38.127.224.139:66.134.246.50:4d0e8a3fd79647ae:eea399f87d1c1367     0      2010/10/20 10:59:58.526 established 
+  579 ipsec atan1.sjc1    35                               ipsec:cnx:0:edge:38.127.224.139:66.134.246.50     0      2010/10/20 10:59:58.526 established 
+  579 ipsec atan1.sjc1    35                                  ipsec:cnx:2189:core:10.160.2.2:10.160.11.2     0      2010/10/20 10:59:58.526 established 
+  579 ipsec atan1.sjc1    35                                    ipsec:cnx:602:core:10.160.2.2:10.160.4.2     0      2010/10/20 10:59:58.526 established 
+  579 ipsec atan1.sjc1    35                             ipsec:cnx:602:edge:38.127.224.139:66.134.246.50     0      2010/10/20 10:59:58.526 established 
+  715 ipsec atan1.sjc1    35     ike:edge:38.127.224.139:12.156.70.165:ee28f23cbc181903:1bb50d62cb319e91     0      2010/10/20 10:59:58.526 established 
+  715 ipsec atan1.sjc1    35                                    ipsec:cnx:724:core:10.160.2.2:10.160.4.2     0      2010/10/20 10:59:58.526 established 
+  715 ipsec atan1.sjc1    35                             ipsec:cnx:724:edge:38.127.224.139:12.156.70.165     0      2010/10/20 10:59:58.526 established 
+  842 ipsec atan1.sjc1    35     ike:edge:38.127.224.139:76.21.124.157:044705b2f78dd103:6adaf694039f93b1     0      2010/10/20 10:59:58.526 established 
+  842 ipsec atan1.sjc1    35                               ipsec:cnx:0:edge:38.127.224.139:76.21.124.157     0      2010/10/20 10:59:58.526 established 
+  906 ipsec atan1.sjc1    35   ike:edge:38.127.224.139:216.200.134.217:b309b7eea8580b04:2920531060d10842     0      2010/10/20 10:59:58.526 established 
+  906 ipsec atan1.sjc1    35                                    ipsec:cnx:917:core:10.160.2.2:10.160.4.2     0      2010/10/20 10:59:58.526 established 
+  906 ipsec atan1.sjc1    35                           ipsec:cnx:917:edge:38.127.224.139:216.200.134.217     0      2010/10/20 10:59:58.526     expired 
+  964 ipsec atan1.sjc1    35                                   ipsec:cnx:2277:core:10.160.2.2:10.160.4.2     0      2010/10/20 10:59:58.526 established 
+  964 ipsec atan1.sjc1    35                                   ipsec:cnx:2277:core:10.160.2.2:10.160.5.2     0      2010/10/20 10:59:58.526     expired 
+  964 ipsec atan1.sjc1    35                             ipsec:cnx:2277:edge:38.127.224.139:66.253.1.158     0      2010/10/20 10:59:58.526 established 
+  997 ipsec atan1.sjc1    35      ike:edge:38.127.224.139:99.38.183.38:107bbe3b2ba92b0c:dcce0134fa9cb6ca     0      2010/10/20 10:59:58.526 established 
+  997 ipsec atan1.sjc1    35                                   ipsec:cnx:1530:core:10.160.2.2:10.160.4.2     0      2010/10/20 10:59:58.526 established 
+  997 ipsec atan1.sjc1    35                             ipsec:cnx:1530:edge:38.127.224.139:99.38.183.38     0      2010/10/20 10:59:58.526     expired 
+ 1424 ipsec atan1.sjc1    35                                   ipsec:cnx:1460:core:10.160.2.2:10.160.4.2     0      2010/10/20 10:59:58.526 established 
+ 1424 ipsec atan1.sjc1    35                            ipsec:cnx:1460:edge:38.127.224.139:98.207.91.156     0      2010/10/20 10:59:58.526 established 
+ 1483 ipsec atan1.sjc1    35      ike:edge:38.127.224.139:24.6.117.126:71ea45a5789998de:1e3eeccb21879490     0      2010/10/20 10:59:58.526 established 
+ 1483 ipsec atan1.sjc1    35                                ipsec:cnx:0:edge:38.127.224.139:24.6.117.126     0      2010/10/20 10:59:58.526     expired 
+ 1575 ipsec atan1.sjc1    35                                   ipsec:cnx:1707:core:10.160.2.2:10.160.5.2     0      2010/10/20 10:59:58.526 established 
+ 1575 ipsec atan1.sjc1    35                           ipsec:cnx:1707:edge:38.127.224.139:165.193.250.17     0      2010/10/20 10:59:58.526      purged 
+ 2148 ipsec atan1.sjc1    35      ike:edge:38.127.224.139:66.149.231.3:8a790fbc2085f848:63f1501de928f6f7     0      2010/10/20 10:59:58.526 established 
+ 2148 ipsec atan1.sjc1    35                                   ipsec:cnx:2227:core:10.160.2.2:10.160.4.2     0      2010/10/20 10:59:58.526 established 
+ 2148 ipsec atan1.sjc1    35                             ipsec:cnx:2227:edge:38.127.224.139:66.149.231.3     0      2010/10/20 10:59:58.526 established 
+  964 ipsec atan1.sjc1    35      ike:edge:38.127.224.139:66.253.1.158:2ab93b5e598e9e22:b2aa7d84cb527c04     0      2010/10/20 10:59:58.526 established 
+
+
+----------Checking For Crashes ----------
+Last Ha_manager Crash on sjc at : Never
+
+Last Controller Crash on sjc at : Never
+
+Last Racoon Crash on sjc at : couldnt determine
+
+
+####################bom POP INFO ####################
+Type        Nexus                Machine      Run Status              restart  pid  Version
+controller                       atan1.bom1     running ( 25d 10:41:08)       11588 1.0.1.0.opt
+ha_manager                       atan1.bom1     running ( 11d 15:07:31)       11583 1.0.1.0.opt
+ipsec                            atan1.bom1     running ( 25d 10:41:10)  yes  11415 1.0.1.0.opt
+controller                       apan1.bom1     running ( 25d 10:41:10)        8925 1.0.1.0.opt
+pan-ni      Aryaka:Bangalore:554 apan1.bom1     running ( 25d 10:41:08)  yes   8946 1.0.1.0.opt
+tan-ni      Aryaka:Bangalore:554 atan1.bom1     running ( 25d 10:41:10)  yes  11420 1.0.1.0.opt
+pan-ni      Gluster:Basavanagudi:690 apan1.bom1     running (  9d 13:53:30)  yes  13729 1.0.0.0.opt
+tan-ni      Gluster:Basavanagudi:690 atan1.bom1     running ( 35d 18:50:06)  yes  19892 1.0.0.0.opt
+pan-ni      Pronto Networks:Bannerghatta_BLR:879 apan1.bom1     running ( 35d 18:50:01)  yes   5693 1.0.0.0.opt
+tan-ni      Pronto Networks:Bannerghatta_BLR:879 atan1.bom1     running ( 35d 18:50:05)  yes  19915 1.0.0.0.opt
+pan-ni      Aayuja:Bangalore:1449 apan1.bom1     running ( 13d 13:57:47)  yes  21938 1.0.0.0.opt
+tan-ni      Aayuja:Bangalore:1449 atan1.bom1     running ( 13d 13:57:49)  yes   7737 1.0.0.0.opt
+pan-ni      Raj Abhyanker LLP:Bangalore:1516 apan1.bom1     running ( 11d 14:43:51)  yes  24955 1.0.0.0.opt
+tan-ni      Raj Abhyanker LLP:Bangalore:1516 atan1.bom1     running ( 35d 18:50:05)  yes  19977 1.0.0.0.opt
+pan-ni      Cloud.com:Hyderabad:2212 apan1.bom1     running ( 33d 07:26:40)  yes  29384 1.0.0.0.opt
+tan-ni      Cloud.com:Hyderabad:2212 atan1.bom1     running ( 33d 07:26:42)  yes   2182 1.0.0.0.opt
+pan-ni      Massive Dynamics:New Branch:2262 apan1.bom1     running (     17:26:23)  yes  14675 1.0.2.0.opt
+tan-ni      Massive Dynamics:New Branch:2262 atan1.bom1     running ( 11d 15:07:31)  yes   7688 1.0.2.0.opt
+
+
+----------bom arnetstatus ----------
+
+
+----------bom IPSEC INFO----------
+nexus  type  hostname  machine                               status_key                               fail_count       last_update          status   
+    0 ipsec atan1.bom1   453                                                                  default     0      2010/10/20 11:00:05.261             
+    0 ipsec atan1.bom1   453         ike:core:10.160.4.2:10.160.2.2:e3807a2ce3de3a3c:7254e959cdcabb28     0      2010/10/20 11:00:05.261 established 
+  554 ipsec atan1.bom1   453                                 ipsec:cnx:602:core:10.160.4.2:10.160.2.2     0      2010/10/20 11:00:05.261 established 
+  554 ipsec atan1.bom1   453                           ipsec:cnx:602:edge:115.111.49.2:122.181.185.19     0      2010/10/20 11:00:05.261 established 
+  690 ipsec atan1.bom1   453                                 ipsec:cnx:724:core:10.160.4.2:10.160.2.2     0      2010/10/20 11:00:05.261 established 
+  690 ipsec atan1.bom1   453                           ipsec:cnx:724:edge:115.111.49.2:122.181.11.106     0      2010/10/20 11:00:05.261 established 
+  879 ipsec atan1.bom1   453                                 ipsec:cnx:917:core:10.160.4.2:10.160.2.2     0      2010/10/20 11:00:05.261 established 
+  879 ipsec atan1.bom1   453                            ipsec:cnx:917:edge:115.111.49.2:180.92.166.60     0      2010/10/20 11:00:05.261 established 
+ 1449 ipsec atan1.bom1   453   ike:edge:115.111.49.2:122.181.177.85:dbf6b6494862026a:471c3291d6663435     0      2010/10/20 11:00:05.261 established 
+ 1449 ipsec atan1.bom1   453                                ipsec:cnx:1460:core:10.160.4.2:10.160.2.2     0      2010/10/20 11:00:05.261 established 
+ 1449 ipsec atan1.bom1   453                          ipsec:cnx:1460:edge:115.111.49.2:122.181.177.85     0      2010/10/20 11:00:05.261 established 
+ 1516 ipsec atan1.bom1   453                                ipsec:cnx:1530:core:10.160.4.2:10.160.2.2     0      2010/10/20 11:00:05.261 established 
+ 1516 ipsec atan1.bom1   453                           ipsec:cnx:1530:edge:115.111.49.2:182.72.141.50     0      2010/10/20 11:00:05.261     expired 
+ 2212 ipsec atan1.bom1   453                                ipsec:cnx:2227:core:10.160.4.2:10.160.2.2     0      2010/10/20 11:00:05.261 established 
+ 2212 ipsec atan1.bom1   453                          ipsec:cnx:2227:edge:115.111.49.2:124.30.163.234     0      2010/10/20 11:00:05.261     expired 
+ 2262 ipsec atan1.bom1   453    ike:edge:115.111.49.2:125.63.79.234:7508b723942b22e8:ec4d5480f8f1d437     0      2010/10/20 11:00:05.261 established 
+ 2262 ipsec atan1.bom1   453                                ipsec:cnx:2277:core:10.160.4.2:10.160.2.2     0      2010/10/20 11:00:05.261 established 
+ 2262 ipsec atan1.bom1   453                           ipsec:cnx:2277:edge:115.111.49.2:125.63.79.234     0      2010/10/20 11:00:05.261 established 
+  554 ipsec atan1.bom1   453   ike:edge:115.111.49.2:122.181.185.19:2b770825698c6342:d33916a86a1f3bc4     0      2010/10/20 11:00:05.261 established 
+
+
+----------Checking For Crashes ----------
+Last Ha_manager Crash on bom at : Never
+
+Last Controller Crash on bom at : Never
+
+Last Racoon Crash on bom at : Never
+
+
+####################maa POP INFO ####################
+Type        Nexus                Machine      Run Status              restart  pid  Version
+controller                       atan1.maa1     running ( 35d 19:18:21)       32743 1.0.0.0.opt
+ha_manager                       atan1.maa1     running ( 11d 14:10:57)       32738 1.0.0.0.opt
+ipsec                            atan1.maa1     running ( 35d 19:18:21)  yes  32754 1.0.0.0.opt
+controller                       apan1.maa1     running ( 35d 19:18:14)        9104 1.0.0.0.opt
+pan-ni      Tavant Technologies, Inc.:Banagalore:1657 apan1.maa1     running ( 35d 19:18:14)  yes   9114 1.0.0.0.opt
+tan-ni      Tavant Technologies, Inc.:Banagalore:1657 atan1.maa1     running ( 35d 19:18:21)  yes  32756 1.0.0.0.opt
+
+
+----------maa arnetstatus ----------
+
+
+----------maa IPSEC INFO----------
+nexus  type  hostname  machine                                status_key                                fail_count       last_update          status   
+    0 ipsec atan1.maa1   1037                                                                   default     0      2010/10/20 11:00:18.101             
+  940 ipsec atan1.maa1   1037   ike:edge:180.179.34.130:125.63.79.234:ab5ccb548d33097b:7a3f8f031b981ff0     0      2010/10/20 11:00:18.101      purged 
+  940 ipsec atan1.maa1   1037                                  ipsec:cnx:974:core:10.160.5.2:10.160.2.2     0      2010/10/20 11:00:18.101 established 
+  940 ipsec atan1.maa1   1037                           ipsec:cnx:974:edge:180.179.34.130:125.63.79.234     0      2010/10/20 11:00:18.101 established 
+ 1657 ipsec atan1.maa1   1037  ike:edge:180.179.34.130:203.200.43.100:effda02502e4c645:39647d9aca1993a4     0      2010/10/20 11:00:18.101 established 
+ 1657 ipsec atan1.maa1   1037                                 ipsec:cnx:1707:core:10.160.5.2:10.160.2.2     0      2010/10/20 11:00:18.101 established 
+ 1657 ipsec atan1.maa1   1037                         ipsec:cnx:1707:edge:180.179.34.130:203.200.43.100     0      2010/10/20 11:00:18.101     expired 
+
+
+----------Checking For Crashes ----------
+Last Ha_manager Crash on maa at : Never
+
+Last Controller Crash on maa at : Never
+
+Last Racoon Crash on maa at : Never
+
+
+
+
+
+------------------------------CUSTOMER INFO FOR: aryaka------------------------------
+
+
+----------sjc TAN_NI INFO (arstatus)----------
+
+nexus                         579                           
+type                          tan-ni                        
+hostname                      atan1.sjc1                    
+machine                       35                            
+status_key                    default                       
+connections_attempted         3907213                       
+connections_established       3541118                       
+fail_count                    0                             
+inbound_packets               154091557                     
+last_update                   2010/10/20--11:00:18.541      
+nsm_status                    up                            
+outbound_packets              169475457                     
+
+
+
+
+----------sjc PAN_NI INFO (arstatus)----------
+
+nexus                         579                           579                           579                           579                           579                           579                           
+type                          pan-ni                        pan-ni                        pan-ni                        pan-ni                        pan-ni                        pan-ni                        
+hostname                      apan1.sjc1                    apan1.sjc1                    apan1.sjc1                    apan1.sjc1                    apan1.sjc1                    apan1.sjc1                    
+machine                       92                            92                            92                            92                            92                            92                            
+status_key                    anap                          default                       cx1551                        cx2189                        cx602                         cx852                         
+arr_fsm_status                	                             up                            	                             	                             	                             	                             
+arr_recv_time                 	                             2010/10/20--10:55:19          	                             	                             	                             	                             
+datapath                      	                             ok                            	                             	                             	                             	                             
+fail_count                    0                             0                             0                             0                             0                             0                             
+fans                          ok                            	                             	                             	                             	                             	                             
+hose_status                   	                             	                             up                            up                            up                            up                            
+icept_current                 	                             184                           	                             	                             	                             	                             
+icept_total                   	                             749243                        	                             	                             	                             	                             
+last_update                   2010/10/20--10:55:38.765      2010/10/20--11:00:18.538      2010/10/20--11:00:18.538      2010/10/20--11:00:18.538      2010/10/20--11:00:18.538      2010/10/20--11:00:18.538      
+mgmt_link                     up                            	                             	                             	                             	                             	                             
+nap_comm                      up                            	                             	                             	                             	                             	                             
+nap_comm_time                 2010/10/00--10:45:05.548      	                             	                             	                             	                             	                             
+nsm_status                    	                             up                            	                             	                             	                             	                             
+timer                         	                             ok                            	                             	                             	                             	                             
+
+
+sjc POP- Total Intercepted Connections: 749244
+
+sjc ANAP- Total Intercepted Connections: 1026662
+
+sjc ANAP- Current Intercepted Connections: 184
+
+sjc ARR-NEXUS-FSM   State                      : RUNNING
+
+
+
+----------bom TAN_NI INFO (arstatus)----------
+
+nexus                         554                           
+type                          tan-ni                        
+hostname                      atan1.bom1                    
+machine                       453                           
+status_key                    default                       
+connections_attempted         3550609                       
+connections_established       3192527                       
+fail_count                    0                             
+inbound_packets               171883119                     
+last_update                   2010/10/20--11:00:45.275      
+nsm_status                    up                            
+outbound_packets              161890926                     
+
+
+
+
+----------bom PAN_NI INFO (arstatus)----------
+
+nexus                         554                           554                           554                           
+type                          pan-ni                        pan-ni                        pan-ni                        
+hostname                      apan1.bom1                    apan1.bom1                    apan1.bom1                    
+machine                       489                           489                           489                           
+status_key                    anap                          default                       cx602                         
+arr_fsm_status                	                             up                            	                             
+arr_recv_time                 	                             2010/10/20--10:54:55          	                             
+datapath                      	                             ok                            	                             
+fail_count                    0                             0                             0                             
+fans                          ok                            	                             	                             
+hose_status                   	                             	                             up                            
+icept_current                 	                             183                           	                             
+icept_total                   	                             615327                        	                             
+last_update                   2010/10/20--10:23:13.838      2010/10/20--11:00:45.274      2010/10/20--11:00:45.274      
+mgmt_link                     up                            	                             	                             
+nap_comm                      up                            	                             	                             
+nap_comm_time                 2010/10/20--12:06:20.616      	                             	                             
+nsm_status                    	                             up                            	                             
+timer                         	                             ok                            	                             
+
+
+bom POP- Total Intercepted Connections: 615332
+
+bom ANAP- Total Intercepted Connections: 737037
+
+bom ANAP- Current Intercepted Connections: 191
+
+bom ANAP ARR-NEXUS-FSM   State                      : RUNNING
+
+
+
+----------Checking For Core Dumps----------
+Last pns_579sjc pop Crash  at : Never
+
+Last pns_554bom popCrash  at : Never
+
+Last pss_579sjc popCrash  at : Never
+
+Last pss_554bom popCrash  at : Never
+
+
+
+
+
+------------------------------CUSTOMER INFO FOR: gluster------------------------------
+
+
+----------sjc TAN_NI INFO (arstatus)----------
+
+nexus                         715                           
+type                          tan-ni                        
+hostname                      atan1.sjc1                    
+machine                       35                            
+status_key                    default                       
+connections_attempted         2733416                       
+connections_established       1537461                       
+fail_count                    0                             
+inbound_packets               33506137                      
+last_update                   2010/10/20--11:01:18.558      
+nsm_status                    up                            
+outbound_packets              33633930                      
+
+
+
+
+----------sjc PAN_NI INFO (arstatus)----------
+
+nexus                         715                           715                           715                           
+type                          pan-ni                        pan-ni                        pan-ni                        
+hostname                      apan1.sjc1                    apan1.sjc1                    apan1.sjc1                    
+machine                       92                            92                            92                            
+status_key                    anap                          default                       cx724                         
+arr_fsm_status                	                             up                            	                             
+arr_recv_time                 	                             2010/10/20--11:01:02          	                             
+datapath                      	                             ok                            	                             
+fail_count                    0                             0                             0                             
+fans                          ok                            	                             	                             
+hose_status                   	                             	                             up                            
+icept_current                 	                             9                             	                             
+icept_total                   	                             31077                         	                             
+last_update                   2010/10/20--10:54:16.289      2010/10/20--11:01:18.555      2010/10/20--11:01:18.555      
+mgmt_link                     up                            	                             	                             
+nap_comm                      up                            	                             	                             
+nap_comm_time                 2010/10/10--19:38:55.204      	                             	                             
+nsm_status                    	                             up                            	                             
+timer                         	                             ok                            	                             
+
+
+sjc POP- Total Intercepted Connections: 31077
+
+
+
+----------bom TAN_NI INFO (arstatus)----------
+
+nexus                         690                           
+type                          tan-ni                        
+hostname                      atan1.bom1                    
+machine                       453                           
+status_key                    default                       
+connections_attempted         2765016                       
+connections_established       1537617                       
+fail_count                    0                             
+inbound_packets               32978920                      
+last_update                   2010/10/20--11:01:25.286      
+nsm_status                    up                            
+outbound_packets              27368918                      
+
+
+
+
+----------bom PAN_NI INFO (arstatus)----------
+
+nexus                         690                           690                           690                           
+type                          pan-ni                        pan-ni                        pan-ni                        
+hostname                      apan1.bom1                    apan1.bom1                    apan1.bom1                    
+machine                       489                           489                           489                           
+status_key                    anap                          default                       cx724                         
+arr_fsm_status                	                             up                            	                             
+arr_recv_time                 	                             2010/10/20--11:01:08          	                             
+datapath                      	                             ok                            	                             
+fail_count                    0                             0                             0                             
+fans                          ok                            	                             	                             
+hose_status                   	                             	                             up                            
+icept_current                 	                             9                             	                             
+icept_total                   	                             4525                          	                             
+last_update                   2010/10/20--10:17:09.828      2010/10/20--11:01:25.284      2010/10/20--11:01:25.284      
+mgmt_link                     down                          	                             	                             
+nap_comm                      up                            	                             	                             
+nap_comm_time                 2010/10/10--19:38:55.041      	                             	                             
+nsm_status                    	                             up                            	                             
+timer                         	                             ok                            	                             
+
+
+bom POP- Total Intercepted Connections: 4526
+
+
+
+----------Checking For Core Dumps----------
+Last pns_715sjc pop Crash  at : Never
+
+Last pns_690bom popCrash  at : Never
+
+Last pss_715sjc popCrash  at : Oct 10 21:05
+
+Last pss_690bom popCrash  at : Oct 10 21:02
+
+
+
+
+
+------------------------------CUSTOMER INFO FOR: pronto------------------------------
+
+
+----------sjc TAN_NI INFO (arstatus)----------
+
+nexus                         906                           
+type                          tan-ni                        
+hostname                      atan1.sjc1                    
+machine                       35                            
+status_key                    default                       
+connections_attempted         231298                        
+connections_established       160684                        
+fail_count                    0                             
+inbound_packets               16205942                      
+last_update                   2010/10/20--11:01:38.574      
+nsm_status                    up                            
+outbound_packets              16792203                      
+
+
+
+
+----------sjc PAN_NI INFO (arstatus)----------
+
+nexus                         906                           906                           906                           
+type                          pan-ni                        pan-ni                        pan-ni                        
+hostname                      apan1.sjc1                    apan1.sjc1                    apan1.sjc1                    
+machine                       92                            92                            92                            
+status_key                    anap                          default                       cx917                         
+arr_fsm_status                	                             idle                          	                             
+arr_recv_time                 	                             2010/10/18--11:59:51          	                             
+datapath                      	                             ok                            	                             
+fail_count                    0                             0                             0                             
+fans                          ok                            	                             	                             
+hose_status                   	                             	                             up                            
+icept_current                 	                             0                             	                             
+icept_total                   	                             67592                         	                             
+last_update                   2010/10/18--11:59:04.773      2010/10/28--11:01:38.571      2010/10/20--11:01:38.571      
+mgmt_link                     up                            	                             	                             
+nap_comm                      down                          	                             	                             
+nap_comm_time                 2010/10/18--11:59:17.053      	                             	                             
+nsm_status                    	                             up                            	                             
+timer                         	                             ok                            	                             
+
+
+sjc POP- Total Intercepted Connections: 67592
+
+
+
+----------bom TAN_NI INFO (arstatus)----------
+
+nexus                         879                           
+type                          tan-ni                        
+hostname                      atan1.bom1                    
+machine                       453                           
+status_key                    default                       
+connections_attempted         231561                        
+connections_established       160611                        
+fail_count                    0                             
+inbound_packets               16412712                      
+last_update                   2010/10/20--11:01:45.292      
+nsm_status                    up                            
+outbound_packets              15898340                      
+
+
+
+
+----------bom PAN_NI INFO (arstatus)----------
+
+nexus                         879                           879                           879                           
+type                          pan-ni                        pan-ni                        pan-ni                        
+hostname                      apan1.bom1                    apan1.bom1                    apan1.bom1                    
+machine                       489                           489                           489                           
+status_key                    anap                          default                       cx917                         
+arr_fsm_status                	                             idle                          	                             
+arr_recv_time                 	                             2010/10/18--11:59:15          	                             
+datapath                      	                             ok                            	                             
+fail_count                    0                             0                             0                             
+fans                          ok                            	                             	                             
+hose_status                   	                             	                             up                            
+icept_current                 	                             0                             	                             
+icept_total                   	                             67600                         	                             
+last_update                   2010/10/18--11:49:04.924      2010/10/28--11:01:45.298      2010/10/20--11:01:45.298      
+mgmt_link                     up                            	                             	                             
+nap_comm                      down                          	                             	                             
+nap_comm_time                 2010/10/18--11:59:16.894      	                             	                             
+nsm_status                    	                             up                            	                             
+timer                         	                             ok                            	                             
+
+
+bom POP- Total Intercepted Connections: 67600
+
+
+
+----------Checking For Core Dumps----------
+Last pns_906sjc pop Crash  at : Never
+
+Last pns_879bom popCrash  at : Never
+
+Last pss_906sjc popCrash  at : Never
+
+Last pss_879bom popCrash  at : Never
+
+
+
+
+
+------------------------------CUSTOMER INFO FOR: massivedynamics------------------------------
+
+
+----------sjc TAN_NI INFO (arstatus)----------
+
+nexus                         964                           
+type                          tan-ni                        
+hostname                      atan1.sjc1                    
+machine                       35                            
+status_key                    default                       
+connections_attempted         1298232                       
+connections_established       1264132                       
+fail_count                    0                             
+inbound_packets               47051222                      
+last_update                   2010/10/20--11:01:58.586      
+nsm_status                    up                            
+outbound_packets              52349810                      
+
+
+
+
+----------sjc PAN_NI INFO (arstatus)----------
+
+nexus                         964                           964                           964                           
+type                          pan-ni                        pan-ni                        pan-ni                        
+hostname                      apan1.sjc1                    apan1.sjc1                    apan1.sjc1                    
+machine                       92                            92                            92                            
+status_key                    anap                          cx2277                        default                       
+arr_fsm_status                	                             	                             up                            
+arr_recv_time                 	                             	                             2010/10/20--02:29:54          
+datapath                      	                             	                             ok                            
+fail_count                    0                             0                             0                             
+fans                          failed                        	                             	                             
+hose_status                   	                             up                            	                             
+icept_current                 	                             	                             2                             
+icept_total                   	                             	                             2169                          
+last_update                   2010/10/20--10:51:04.242      2010/10/20--11:01:58.583      2010/10/20--01:01:58.583      
+mgmt_link                     up                            	                             	                             
+nap_comm                      up                            	                             	                             
+nap_comm_time                 2010/10/20--11:50:50.971      	                             	                             
+nsm_status                    	                             	                             up                            
+timer                         	                             	                             ok                            
+
+
+sjc POP- Total Intercepted Connections: 2170
+
+
+
+----------bom TAN_NI INFO (arstatus)----------
+
+nexus                         2262                          
+type                          tan-ni                        
+hostname                      atan1.bom1                    
+machine                       453                           
+status_key                    default                       
+connections_attempted         272346                        
+connections_established       251422                        
+fail_count                    0                             
+inbound_packets               47796032                      
+last_update                   2010/10/20--11:02:05.309      
+nsm_status                    up                            
+outbound_packets              51944020                      
+
+
+
+
+----------bom PAN_NI INFO (arstatus)----------
+
+nexus                         2262                          2262                          2262                          
+type                          pan-ni                        pan-ni                        pan-ni                        
+hostname                      apan1.bom1                    apan1.bom1                    apan1.bom1                    
+machine                       489                           489                           489                           
+status_key                    anap                          cx2277                        default                       
+arr_fsm_status                	                             	                             up                            
+arr_recv_time                 	                             	                             2010/10/20--06:09:47          
+datapath                      	                             	                             ok                            
+fail_count                    0                             0                             0                             
+fans                          ok                            	                             	                             
+hose_status                   	                             up                            	                             
+icept_current                 	                             	                             2                             
+icept_total                   	                             	                             2163                          
+last_update                   2010/10/20--10:34:49.847      2010/10/20--11:02:05.307      2010/10/20--01:02:05.307      
+mgmt_link                     up                            	                             	                             
+nap_comm                      up                            	                             	                             
+nap_comm_time                 2010/10/10--11:06:50.768      	                             	                             
+nsm_status                    	                             	                             up                            
+timer                         	                             	                             ok                            
+
+
+bom POP- Total Intercepted Connections: 2163
+
+
+
+----------Checking For Core Dumps----------
+Last pns_964sjc pop Crash  at : Never
+
+Last pns_2262bom popCrash  at : Never
+
+Last pss_964sjc popCrash  at : Never
+
+Last pss_2262bom popCrash  at : Never
+

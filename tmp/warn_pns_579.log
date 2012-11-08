@@ -1,0 +1,18 @@
+WARN  2010/07/22 03:36:46.102 NI [6,602,L,172.17.1.11:21016 10.0.2.11:22] ARM-1962: got ACK waiting for SYN_ACK - route problem?
+WARN  2010/07/22 03:39:10.751 NI [6,602,L,172.17.1.11:21055 10.0.4.11:22] ARM-1962: got ACK waiting for SYN_ACK - route problem?
+WARN  2010/07/22 03:40:29.107 NI [6,602,L,172.17.1.11:21060 10.0.2.21:22] ARM-1962: got ACK waiting for SYN_ACK - route problem?
+WARN  2010/07/22 04:00:25.376 NI [6,602,L,192.168.10.26:48107 172.17.1.59:445] ARM-3823: Detected reverse flow, bypassing both.
+WARN  2010/07/22 04:00:26.654 NI [6,602,L,192.168.10.26:48109 172.17.1.59:139] ARM-3823: Detected reverse flow, bypassing both.
+WARN  2010/07/22 04:00:47.764 NI [6,602,L,192.168.10.26:48110 172.17.1.59:80] ARM-3823: Detected reverse flow, bypassing both.
+WARN  2010/07/22 04:01:08.759 NI [6,602,L,192.168.10.26:48115 172.17.1.20:445] ARM-3823: Detected reverse flow, bypassing both.
+WARN  2010/07/22 04:01:10.064 NI [6,602,L,192.168.10.26:48118 172.17.1.20:139] ARM-3823: Detected reverse flow, bypassing both.
+WARN  2010/07/22 04:01:31.184 NI [6,602,L,192.168.10.26:48119 172.17.1.20:80] ARM-3823: Detected reverse flow, bypassing both.
+WARN  2010/07/22 04:56:48.608 NI [6,602,L,172.17.1.10:49670 10.0.4.11:22] ARM-1962: got ACK waiting for SYN_ACK - route problem?
+WARN  2010/07/22 05:53:09.426 NI [6,602,L,192.168.10.12:61890 172.17.1.20:445] ARM-3823: Detected reverse flow, bypassing both.
+WARN  2010/07/22 05:53:13.874 NI [6,602,L,192.168.10.12:61892 172.17.1.20:139] ARM-3823: Detected reverse flow, bypassing both.
+WARN  2010/07/22 05:53:35.551 NI [6,602,L,192.168.10.12:61901 172.17.1.20:80] ARM-3823: Detected reverse flow, bypassing both.
+WARN  2010/07/22 05:53:56.422 NI [6,602,L,192.168.10.12:61903 172.17.1.59:445] ARM-3823: Detected reverse flow, bypassing both.
+WARN  2010/07/22 05:53:59.100 NI [6,602,L,192.168.10.12:61905 172.17.1.59:139] ARM-3823: Detected reverse flow, bypassing both.
+WARN  2010/07/22 05:54:20.651 NI [6,602,L,192.168.10.12:61912 172.17.1.59:80] ARM-3823: Detected reverse flow, bypassing both.
+WARN  2010/07/22 06:38:01.459 NI [6,602,L,172.17.1.124:55190 10.0.2.21:22] ARM-1962: got ACK waiting for SYN_ACK - route problem?
+WARN  2010/07/22 06:38:10.153 NI [6,602,L,172.17.1.124:55191 10.0.4.21:22] ARM-1962: got ACK waiting for SYN_ACK - route problem?

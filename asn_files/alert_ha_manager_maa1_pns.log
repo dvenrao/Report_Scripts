@@ -1,0 +1,5 @@
+ALERT 2011/06/17 21:30:39.862 CONTROL:ping [124.124.65.29:0 ] ARM-7849: 115.248.131.160 (NEXUS Keane:Bangalore:7244): edge connectivity lost for more than 15 seconds
+ALERT 2011/06/17 21:48:35.507 CONTROL:ping ARM-7852: 182.72.142.26 (NEXUS Tavant Technologies, Inc.:Banagalore:1657): edge connectivity lost for more than 15 seconds
+ALERT 2011/06/17 21:48:35.508 CONTROL:ping ARM-7852: 202.45.6.90 (NEXUS Symphony Services:Bangalore:6681): edge connectivity lost for more than 15 seconds
+ALERT 2011/06/17 21:48:35.508 CONTROL:ping ARM-7852: 125.63.79.234 (NEXUS Massive Dynamic:Massive_MAA1:5216): edge connectivity lost for more than 15 seconds
+ALERT 2011/06/17 22:34:22.231 CONTROL:ping ARM-7852: 182.72.142.26 (NEXUS Tavant Technologies, Inc.:Banagalore:1657): edge connectivity lost for more than 15 seconds

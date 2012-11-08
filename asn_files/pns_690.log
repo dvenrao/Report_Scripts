@@ -1,0 +1,9 @@
+WARN  2011/06/17 18:59:04.030 NI [ ] ARM-1866: NSM heartbeat: 0.117 sec rtt, seq 383207 (0)
+WARN  2011/06/17 22:22:39.829 NI ARM-1859: NSM: no timely heartbeat response in 6.012 seconds (missed 1).
+WARN  2011/06/17 22:22:39.829 NI [ ] ARM-1867: NSM heartbeat: Got seq 387271 for 387271 (0), prev recv 387269 (0)
+WARN  2011/06/17 22:49:37.008 NI [ ] ARM-1868: NSM: connexus=7098 state=2 STATE_BLOCKED
+WARN  2011/06/17 22:49:39.249 NI [6,7098,L,192.168.1.26:58078 10.1.10.252:443] ARM-1977: NSM connexus state not up, cannot intercept.
+WARN  2011/06/17 22:49:39.251 NI [6,7098,L,192.168.1.29:837 10.1.10.11:111] ARM-1977: NSM connexus state not up, cannot intercept.
+WARN  2011/06/17 22:49:39.265 NI [6,7098,L,192.168.1.26:58079 10.1.10.252:443] ARM-1977: NSM connexus state not up, cannot intercept.
+WARN  2011/06/17 22:49:39.273 NI [6,7098,L,192.168.1.26:58080 10.1.10.252:443] ARM-1977: NSM connexus state not up, cannot intercept.
+WARN  2011/06/17 22:49:40.014 NI [ ] ARM-1868: NSM: connexus=7098 state=1 STATE_UP

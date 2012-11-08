@@ -1,0 +1,43 @@
+TestLogger  : INFO     LIVE ARYAKA POP REPORT
+
+TestLogger  : INFO     SJC POP INFO 
+TestLogger  : INFO     
+####################SJC POP INFO ####################
+
+Type        Nexus                Machine      Run Status              restart  pid  Version
+controller                       atan1.sjc1     running (      0:06:41)       15171 0.4.0.D4.0_4566.dbg
+ha_manager                       atan1.sjc1     running (      0:06:41)       15166 0.4.0.D4.0_4566.dbg
+ipsec                            atan1.sjc1     running ( 18d 01:38:22)  yes  24611 0.4.0.D4.0_4304.dbg
+controller                       apan1.sjc1     running (      0:06:42)       23816 0.4.0.D4.0_4566.dbg
+pan-ni      Aryaka:581:579       apan1.sjc1     running (      2:39:01)  yes  17290 0.4.0.D4.0_4566.dbg
+tan-ni      Aryaka:581:579       atan1.sjc1     running (      2:39:01)  yes   8622 0.4.0.D4.0_4566.dbg
+pan-ni      Gluster:717:715      apan1.sjc1     running ( 16d 08:47:50)  yes  24773 0.4.0.D4.0_4304.dbg
+tan-ni      Gluster:717:715      atan1.sjc1     running ( 16d 08:47:50)  yes   3395 0.4.0.D4.0_4304.dbg
+pan-ni      Aryaka_herckt:581:100 apan1.sjc1     running (     14:03:12)  yes  20634 0.4.0.D4.0_4454.dbg
+tan-ni      Aryaka_herckt:581:100 atan1.sjc1     running (     14:03:11)  yes   7765 0.4.0.D4.0_4454.dbg
+TestLogger  : INFO     SJC TAN_NI INFO
+TestLogger  : INFO     
+
+----------SJC TAN_NI INFO----------
+
+TestLogger  : INFO     
+nexus                         579                           
+type                          tan-ni                        
+hostname                      atan1.sjc1                    
+machine                       35                            
+status_key                    default                       
+connections_attempted         52037                         
+connections_established       51533                         
+fail_count                    0                             
+inbound_packets               1125183                       
+last_update                   2010/07/16--17:02:25.041      
+nsm_status                    up                            
+outbound_packets              1119177                       
+
+
+
+TestLogger  : INFO     SJC PAN_NI INFO
+TestLogger  : INFO     
+
+----------SJC PAN_NI INFO----------
+

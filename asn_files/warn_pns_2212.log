@@ -1,0 +1,6 @@
+WARN  2011/06/17 18:22:36.986 NI ARM-1859: NSM: no timely heartbeat response in 6.012 seconds (missed 1).
+WARN  2011/06/17 18:22:36.986 NI [ ] ARM-1867: NSM heartbeat: Got seq 1026814 for 1026814 (0), prev recv 1026812 (0)
+WARN  2011/06/17 23:12:38.057 NI ARM-1859: NSM: no timely heartbeat response in 6.012 seconds (missed 1).
+WARN  2011/06/17 23:12:38.058 NI [ ] ARM-1867: NSM heartbeat: Got seq 1032603 for 1032603 (0), prev recv 1032601 (0)
+WARN  2011/06/17 23:12:56.093 NI ARM-1859: NSM: no timely heartbeat response in 6.012 seconds (missed 1).
+WARN  2011/06/17 23:12:56.094 NI [ ] ARM-1867: NSM heartbeat: Got seq 1032609 for 1032609 (0), prev recv 1032607 (0)

@@ -1,0 +1,120 @@
+Type        Nexus                Machine      Run Status              restart  pid  Version
+controller                       atan1.sjc1     running (     12:33:05)       15171 0.4.0.D4.0_4566.dbg
+ha_manager                       atan1.sjc1     running (     10:45:02)       15166 0.4.0.D4.0_4566.dbg
+ipsec                            atan1.sjc1     running (     10:45:00)  yes  20127 0.4.0.D4.0_4566.dbg
+controller                       apan1.sjc1     running (     12:33:06)       23816 0.4.0.D4.0_4566.dbg
+pan-ni      Aryaka:581:579       apan1.sjc1     running (     15:05:25)  yes  17290 0.4.0.D4.0_4566.dbg
+tan-ni      Aryaka:581:579       atan1.sjc1     running (     15:05:25)  yes   8622 0.4.0.D4.0_4566.dbg
+pan-ni      Gluster:717:715      apan1.sjc1     running ( 16d 21:14:14)  yes  24773 0.4.0.D4.0_4304.dbg
+tan-ni      Gluster:717:715      atan1.sjc1     running ( 16d 21:14:14)  yes   3395 0.4.0.D4.0_4304.dbg
+pan-ni      Aryaka_herckt:581:100 apan1.sjc1     running (  1d 02:29:36)  yes  20634 0.4.0.D4.0_4454.dbg
+tan-ni      Aryaka_herckt:581:100 atan1.sjc1     running (  1d 02:29:35)  yes   7765 0.4.0.D4.0_4454.dbg
+nexus  type  hostname  machine                                status_key                                fail_count       last_update          status   
+   0  ipsec              148                                                                    default     0      2010/06/06 04:39:22.143             
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:26609758a5871659:bdd8add060cdad0e     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:82fa3946d9525b3f:463373ef6671ec29     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:3ef94b820d4221b1:5f149d7d1e532d3a     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:5f704f63cfabcba0:04537fe067b6ef15     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:6b5e601f22539baa:452b9cc8d3798650     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:97f2e26d32b26912:df47b7bd45568e83     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:d76a49a45b0e9347:a421f8f4ad515144     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:8c93bfcb66f0dfa5:0ad986ef295509d0     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:b2881395e166da4f:7fa74effd67e1409     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:175ac6bb879f5791:edceba4997a39864     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:360ef0d1ccad9d32:27b905b5affd526b     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:55d7dcb44963a7bc:56199b109b23b711     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:66b5023981ade454:20d7810ab79ef868     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:2fe2722f849cfebb:ffc9b8b85e35ad4b     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:35a0036f70c4b587:76fc6243a8c0923a     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:1d6e6565b8bd2800:3ab3ab868ff09fa6     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:ac638311b4308cd7:d94d7fc6138b8b84     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:9dccb1ffa7aa76cd:df5a46232d85d12a     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:8957ed0e80f75087:bd18458c4535de86     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:e1dfaf8a85416857:1d4f995fe677b95f     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:0ea2de00476621c5:1b359b46b81d0e62     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:c0fbe8ec7a3eadce:b9e1265a45a6cc59     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:d9f9ba9b533b8ed9:34f09a318ad85fe3     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:71258fe36eca2c41:9e4efb56002a8a8c     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:cd10770b49ff4897:b3c8f1efe4e81c0b     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:0fe0dedf495ae85b:4eeed6f8072d3de4     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:56f0b1a787c4f504:0a13e6603e2de23e     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:e2fa92fa06f4bee2:2b07cd96e656e71d     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:0558b8109a4a56c0:e1b2a1c566310b1d     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:a812a3f6e110daf0:fcdd712b70f46774     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:9a13eb7842a831d5:2a78832c6ad6f408     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:fcefe476c5f07452:b72d16a15e2022e7     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:59f8fbe9fe75b3f0:6e9b8d2bf8b145f8     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:9f0f4555c25d4093:4d555b4ce22f522c     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:2c5099949709c2ef:f049d77cc0ed74e2     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:fc4af4d2b5cdcaa3:6ee9063f1fadf09f     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:93c95e8b85142676:d75a4f94807a2cf9     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:fd339b454112cf9e:cb523a0dfd049a25     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:c9bd3b5464095d03:8d7350758f41bda0     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:6f44f19cdcc0f890:e8c8703940647675     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:af22ea46dacb7d1b:45ec1a7de81daf41     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:fccdd5b4ef6f1d88:734f0744f8d8e4c5     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:e4ce6352f8baaea4:19685cc9f5071559     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:709895ffa02d4082:0df272138afeb2ce     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:cf4d8c066d69b4ab:0fff71a089585bac     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:3b18a3f67a592934:8344667985d37802     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:e13551b0457360b9:7177644130585835     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:137dc14697467ca9:14c53c95708854ab     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:d757d6437e7eb624:206cc5dc2ba3b189     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:e6b39a58a98398fe:88d7046cbd24f0b5     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:e8e086cf26194692:cc52a8110330d3e5     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:22e99b22da73c6da:18f96aeae3ace094     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:792666bbfd478f25:22c19c437b64a72a     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:6339bd997a7350d1:eab0657dd9a76015     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:871f836618bb6cb6:31dc8eeaf35291e1     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:cb21dfaf11879e17:375c4f1e7db80a24     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:7e8be4baf032df1a:953d4013fe02d2c4     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:60e45791aa87c0d6:30b07bc4ccecf561     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:dfc212971853408a:aa833bc3f2415b2e     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:d8bc824c357f1e3b:07064c59d88bdfb9     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:c7826de97f620c6b:69c7d2231158df58     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:58a602987f5c7728:6a235510b37a1027     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:ffb169ca8be3c7f6:00ded5398ebdbd8e     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:f7b134e0d0783bde:fe06f7e3274f6e3b     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:ea1bd8f60ef94a18:f74744a93c488b03     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:d037b841e6ecff89:6b23855862cf7496     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:73d4350c8bf3dd09:d62078ab42d5037c     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:cf827889f534b8e5:2412294d2e030717     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:8d5e5216778cdc19:9417b0fbc3d34b70     0      2010/06/06 04:39:22.143     deleted 
+   0  ipsec              148           ike:core:10.160.2.2:10.160.1.2:3f286d3dbf204767:5265ccfd1ea5462e     0      2010/06/06 04:39:22.143 established 
+   0  ipsec atan1.sjc1    35                                                                    default     0      2010/07/17 05:28:50.931             
+   0  ipsec atan1.sjc1    35           ike:core:10.160.2.2:10.160.4.2:748f0494a46fbcd2:055789ae03b2a037     0      2010/07/17 05:28:50.931 established 
+   0  ipsec atan1.sjc1    35           ike:core:10.160.2.2:10.160.4.2:d4124b202d6026e3:e5cf8066dcf495db     0      2010/07/17 05:28:50.931 established 
+ 100  ipsec atan1.sjc1    35   ike:edge:38.127.224.139:69.181.118.168:2e8bf8d58cb8bff6:0f031669f5a69c24     0      2010/07/17 05:28:50.931 established 
+ 100  ipsec atan1.sjc1    35                             ipsec:cnx:0:edge:38.127.224.139:69.181.118.168     0      2010/07/17 05:28:50.931 established 
+ 579  ipsec atan1.sjc1    35    ike:edge:38.127.224.139:66.134.246.50:74a0a4a6887771a3:eea399f8f1a98185     0      2010/07/17 05:28:50.931 established 
+ 579  ipsec atan1.sjc1    35                              ipsec:cnx:0:edge:38.127.224.139:66.134.246.50     0      2010/07/17 05:28:50.931 established 
+ 579  ipsec atan1.sjc1    35                                   ipsec:cnx:602:core:10.160.2.2:10.160.4.2     0      2010/07/17 05:28:50.931 established 
+ 579  ipsec atan1.sjc1    35                            ipsec:cnx:602:edge:38.127.224.139:66.134.246.50     0      2010/07/17 05:28:50.931 established 
+ 715  ipsec atan1.sjc1    35    ike:edge:38.127.224.139:12.156.70.165:f8cd720fd205ff8c:1bb50d62587c3e4d     0      2010/07/17 05:28:50.931 established 
+ 715  ipsec atan1.sjc1    35                                   ipsec:cnx:724:core:10.160.2.2:10.160.4.2     0      2010/07/17 05:28:50.931     expired 
+ 715  ipsec atan1.sjc1    35                            ipsec:cnx:724:edge:38.127.224.139:12.156.70.165     0      2010/07/17 05:28:50.931 established 
+Type        Nexus                Machine      Run Status              restart  pid  Version
+controller                       atan1.bom1     running (     12:33:10)       18106 0.4.0.D4.0_4566.dbg
+ha_manager                       atan1.bom1     running (     10:31:24)       18100 0.4.0.D4.0_4566.dbg
+ipsec                            atan1.bom1     running (     10:31:23)  yes  31306 0.4.0.D4.0_4566.dbg
+controller                       apan1.bom1     running (     12:33:10)       19359 0.4.0.D4.0_4566.dbg
+pan-ni      Aryaka:556:554       apan1.bom1     running (     15:05:24)  yes  13896 0.4.0.D4.0_4566.dbg
+tan-ni      Aryaka:556:554       atan1.bom1     running (     15:05:24)  yes   1109 0.4.0.D4.0_4566.dbg
+pan-ni      Gluster:692:690      apan1.bom1     running ( 18d 14:02:25)  yes  23332 0.4.0.D4.0_4304.dbg
+tan-ni      Gluster:692:690      atan1.bom1     running ( 18d 14:02:27)  yes   8776 0.4.0.D4.0_4304.dbg
+nexus  type  hostname  machine                               status_key                               fail_count       last_update          status   
+   0  ipsec atan1.bom1   453                                                                  default     0      2010/07/17 05:29:12.460             
+   0  ipsec atan1.bom1   453         ike:core:10.160.4.2:10.160.2.2:748f0494a46fbcd2:055789ae03b2a037     0      2010/07/17 05:29:12.460 established 
+   0  ipsec atan1.bom1   453         ike:core:10.160.4.2:10.160.2.2:d4124b202d6026e3:e5cf8066dcf495db     0      2010/07/17 05:29:12.460 established 
+ 554  ipsec atan1.bom1   453   ike:edge:115.111.49.2:122.181.185.19:325065bb286747b5:fd9ad814dd8ebd3c     0      2010/07/17 05:29:12.460 established 
+ 554  ipsec atan1.bom1   453                                 ipsec:cnx:602:core:10.160.4.2:10.160.2.2     0      2010/07/17 05:29:12.460 established 
+ 554  ipsec atan1.bom1   453                           ipsec:cnx:602:edge:115.111.49.2:122.181.185.19     0      2010/07/17 05:29:12.460 established 
+ 690  ipsec atan1.bom1   453   ike:edge:115.111.49.2:122.181.11.106:d7eb251f468f99b4:8cca00d9d3246087     0      2010/07/17 05:29:12.460 established 
+ 690  ipsec atan1.bom1   453                                 ipsec:cnx:724:core:10.160.4.2:10.160.2.2     0      2010/07/17 05:29:12.460     expired 
+ 690  ipsec atan1.bom1   453                           ipsec:cnx:724:edge:115.111.49.2:122.181.11.106     0      2010/07/17 05:29:12.460 established 
+Total Intercepted Connections: 2681
+Current Intercepted Connections: 20
+  State                      : RUNNING
+Total Intercepted Connections: 8403
+Current Intercepted Connections: 23
+  State                      : RUNNING

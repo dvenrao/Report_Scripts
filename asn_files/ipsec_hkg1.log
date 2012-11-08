@@ -1,0 +1,41 @@
+ERROR 2011/06/17 21:12:14.140 DEFAULT ARM-8667: nss_ni_ipsec_config: Skipping edge IPSEC configuration.
+ERROR 2011/06/17 21:12:14.152 DEFAULT ARM-8667: nss_ni_ipsec_config: Skipping edge IPSEC configuration.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.155 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.156 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.156 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.156 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.156 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.156 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.156 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.156 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.156 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.156 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+ERROR 2011/06/17 21:12:14.156 IKE-IPSEC:HA ARM-8427: Initialize the stats nodes.
+WARN  2011/06/17 21:12:14.156 IKE-IPSEC:-  ARM-7169: NAT-T is enabled in at least one remote{} section,
+WARN  2011/06/17 21:12:14.156 IKE-IPSEC:-  ARM-7170: but no 'isakmp_natt' address was specified!

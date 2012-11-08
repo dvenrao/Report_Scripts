@@ -1,0 +1,6 @@
+WARN  2011/06/17 18:59:41.419 DEFAULT [6,7173,L,172.16.63.198:2526 10.99.2.140:443] ARM-7817: Dispatcher runs too long. (svc=ARR, duration=9244699 usec, action='close confirm', conn_id=367, dir=0, prio=0)
+WARN  2011/06/17 18:59:41.419 DEFAULT ARM-2115: Timer not run for over 2 seconds.
+WARN  2011/06/17 21:31:07.754 DEFAULT [6,6702,L,10.99.2.146:50933 172.16.16.31:445] ARM-7817: Dispatcher runs too long. (svc=CIFS, duration=1251662 usec, action='(unknown)', conn_id=782, dir=1, prio=0)
+WARN  2011/06/17 21:49:10.548 ARR:NEXUSFSM [ ] ARM-1095: Ping time out occurs. Enter half-optimized mode.
+WARN  2011/06/17 21:49:16.687 PSS-PROXY [ ] dispatch early exit: 0
+WARN  2011/06/17 21:49:22.852 ARR:NEXUSFSM [6,7173,L,172.16.63.188:1138 10.99.2.190:5061] ARM-1096: First ping received after time out.

@@ -1,0 +1,14 @@
+WARN  2011/06/17 19:15:17.750 NI [ ] ARM-1866: NSM heartbeat: 2.576 sec rtt, seq 21735 (0)
+WARN  2011/06/17 19:48:07.229 NI [ ] ARM-1866: NSM heartbeat: 0.179 sec rtt, seq 22391 (0)
+WARN  2011/06/17 20:29:06.043 NI [ ] ARM-1866: NSM heartbeat: 0.170 sec rtt, seq 23209 (0)
+WARN  2011/06/17 20:32:06.330 NI [ ] ARM-1866: NSM heartbeat: 0.106 sec rtt, seq 23269 (0)
+WARN  2011/06/17 20:53:06.535 NI [ ] ARM-1866: NSM heartbeat: 0.840 sec rtt, seq 23688 (0)
+WARN  2011/06/17 22:34:50.508 NI [6,4574,L,172.17.1.17:443 172.16.1.17:13237] ARM-1962: got ACK waiting for SYN_ACK - route problem?
+WARN  2011/06/17 22:44:06.928 NI [ ] ARM-1866: NSM heartbeat: 0.160 sec rtt, seq 25904 (0)
+WARN  2011/06/17 22:46:22.186 NI [ ] ARM-1866: NSM heartbeat: 0.148 sec rtt, seq 25949 (0)
+WARN  2011/06/17 22:55:31.810 NI [6,4574,L,172.16.1.17:20709 172.17.1.17:23373] ARM-1857: N4553 FT_71404 HPOP SN_SNK H: Provisioned NAP not detected, attempting interception.
+WARN  2011/06/17 22:55:31.813 NI [6,4574,L,172.16.1.17:20709 172.17.1.17:23374] ARM-1857: N4553 FT_71405 HPOP SN_SNK H: Provisioned NAP not detected, attempting interception.
+WARN  2011/06/17 22:55:32.643 NI [6,4574,L,172.16.1.17:20709 172.17.1.17:23375] ARM-1857: N4553 FT_71406 HPOP SN_SNK H: Provisioned NAP not detected, attempting interception.
+WARN  2011/06/17 22:55:34.369 NI [6,4574,L,172.16.1.21:636 172.17.1.57:59006] ARM-1857: N4553 FT_71410 HPOP SN_SNK H: Provisioned NAP not detected, attempting interception.
+WARN  2011/06/17 23:11:16.174 NI [ ] ARM-1866: NSM heartbeat: 0.214 sec rtt, seq 26446 (0)
+WARN  2011/06/17 23:11:31.297 NI [ ] ARM-1866: NSM heartbeat: 0.307 sec rtt, seq 26451 (0)
